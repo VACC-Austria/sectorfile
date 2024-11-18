@@ -1,0 +1,37 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:LOWI Grounddesignators\1:freetext
+Free Text:LOWI Grounddesignators\10:freetext
+Free Text:LOWI Grounddesignators\2:freetext
+Free Text:LOWI Grounddesignators\3:freetext
+Free Text:LOWI Grounddesignators\4:freetext
+Free Text:LOWI Grounddesignators\5:freetext
+Free Text:LOWI Grounddesignators\6:freetext
+Free Text:LOWI Grounddesignators\7:freetext
+Free Text:LOWI Grounddesignators\8:freetext
+Free Text:LOWI Grounddesignators\9:freetext
+Free Text:LOWI Grounddesignators\A:freetext
+Free Text:LOWI Grounddesignators\B:freetext
+Free Text:LOWI Grounddesignators\L:freetext
+Free Text:LOWI Grounddesignators\LOJO:freetext
+Free Text:LOWI Grounddesignators\Z:freetext
+Regions:Groundlayout LOWI:polygon
+Runways:LOWI 08-26:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:8.00000
+TAGFAMILY:VACC Austria DEL/GND/TWR
+WINDOWAREA:47.254568:11.329746:47.266865:11.362741
+PLUGIN:Ground Radar plugin:AirportElevation:1907 
+PLUGIN:Ground Radar plugin:AirportRadius:1
+PLUGIN:Ground Radar plugin:GroundMode:LOWI

@@ -1,0 +1,57 @@
+DisplayTypeName:Ground Radar display
+PLUGIN:Ground Radar plugin:GroundMode:LOXZ
+PLUGIN:Ground Radar plugin:AirportElevation:2264 
+PLUGIN:Ground Radar plugin:AirportRadius:1
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:LOXZ Grounddesignator\A:freetext
+Free Text:LOXZ Grounddesignator\AP1:freetext
+Free Text:LOXZ Grounddesignator\AP2:freetext
+Free Text:LOXZ Grounddesignator\AP3:freetext
+Free Text:LOXZ Grounddesignator\AP4:freetext
+Free Text:LOXZ Grounddesignator\AP5:freetext
+Free Text:LOXZ Grounddesignator\B:freetext
+Free Text:LOXZ Grounddesignator\B1:freetext
+Free Text:LOXZ Grounddesignator\C:freetext
+Free Text:LOXZ Grounddesignator\C1:freetext
+Free Text:LOXZ Grounddesignator\D:freetext
+Free Text:LOXZ Grounddesignator\D1:freetext
+Free Text:LOXZ Grounddesignator\D1:freetext
+Free Text:LOXZ Grounddesignator\E:freetext
+Free Text:LOXZ Grounddesignator\F:freetext
+Free Text:LOXZ Grounddesignator\F1:freetext
+Free Text:LOXZ Grounddesignator\G:freetext
+Free Text:LOXZ Grounddesignator\H:freetext
+Free Text:LOXZ Grounddesignator\H:freetext
+Free Text:LOXZ Grounddesignator\H:freetext
+Free Text:LOXZ Grounddesignator\J:freetext
+Free Text:LOXZ Grounddesignator\K:freetext
+Free Text:LOXZ Grounddesignator\K1:freetext
+Free Text:LOXZ Grounddesignator\L:freetext
+Free Text:LOXZ Grounddesignator\M:freetext
+Free Text:LOXZ Grounddesignator\T:freetext
+Free Text:LOXZ Grounddesignator\T:freetext
+Free Text:LOXZ Grounddesignator\T:freetext
+Free Text:LOXZ Grounddesignator\U:freetext
+Free Text:LOXZ Grounddesignator\V:freetext
+Free Text:LOXZ Grounddesignator\W:freetext
+Free Text:LOXZ Grounddesignator\X:freetext
+Free Text:LOXZ Grounddesignator\Y:freetext
+Regions:Groundlayout LOXZ:polygon
+Runways:LOXZ 02-20:name
+Runways:LOXZ 08L-26R:name
+Runways:LOXZ 08R-26L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:10.00000
+TAGFAMILY:VACC Austria DEL/GND/TWR
+WINDOWAREA:47.193059:14.720130:47.209035:14.763532

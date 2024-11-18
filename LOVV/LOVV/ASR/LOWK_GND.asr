@@ -1,0 +1,45 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:LOWK Grounddesignators\21:freetext
+Free Text:LOWK Grounddesignators\22:freetext
+Free Text:LOWK Grounddesignators\23:freetext
+Free Text:LOWK Grounddesignators\24:freetext
+Free Text:LOWK Grounddesignators\25:freetext
+Free Text:LOWK Grounddesignators\26:freetext
+Free Text:LOWK Grounddesignators\27:freetext
+Free Text:LOWK Grounddesignators\28:freetext
+Free Text:LOWK Grounddesignators\30:freetext
+Free Text:LOWK Grounddesignators\31:freetext
+Free Text:LOWK Grounddesignators\32:freetext
+Free Text:LOWK Grounddesignators\33:freetext
+Free Text:LOWK Grounddesignators\B:freetext
+Free Text:LOWK Grounddesignators\C:freetext
+Free Text:LOWK Grounddesignators\H1:freetext
+Free Text:LOWK Grounddesignators\H2:freetext
+Free Text:LOWK Grounddesignators\H3:freetext
+Free Text:LOWK Grounddesignators\L:freetext
+Free Text:LOWK Grounddesignators\M:freetext
+Free Text:LOWK Grounddesignators\M:freetext
+Free Text:LOWK Grounddesignators\M1:freetext
+Free Text:LOWK Grounddesignators\TL10:freetext
+Free Text:LOWK Grounddesignators\TL20:freetext
+Regions:Groundlayout LOWK:polygon
+Runways:LOWK 10L-28R:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:345.00000
+TAGFAMILY:VACC Austria DEL/GND/TWR
+WINDOWAREA:46.636721:14.316316:46.652094:14.357559
+PLUGIN:Ground Radar plugin:AirportElevation:1472
+PLUGIN:Ground Radar plugin:AirportRadius:1
+PLUGIN:Ground Radar plugin:GroundMode:LOWK

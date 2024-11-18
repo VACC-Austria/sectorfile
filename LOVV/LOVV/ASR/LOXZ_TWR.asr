@@ -1,0 +1,83 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:EDDM:symbol
+Airports:LHBP:symbol
+Airports:LJLJ:symbol
+Airports:LOAN:symbol
+Airports:LOAV:symbol
+Airports:LODN:symbol
+Airports:LOGJ:symbol
+Airports:LOWG:symbol
+Airports:LOWI:symbol
+Airports:LOWK:symbol
+Airports:LOWL:symbol
+Airports:LOWS:symbol
+Airports:LOWW:symbol
+Airports:LOWZ:symbol
+Airports:LOXT:symbol
+Airports:LZIB:name
+Airports:LZIB:symbol
+ARTCC boundary:EDDM_APP:
+ARTCC boundary:FIR EDGG EDGG FIR border:
+ARTCC boundary:FIR EDMM EDMM FIR border:
+ARTCC boundary:FIR LHCC LHCC FIR border:
+ARTCC boundary:FIR LIMM LIXX FIR border:
+ARTCC boundary:FIR LJLA LJLA FIR border:
+ARTCC boundary:FIR LKAA LKAA FIR border:
+ARTCC boundary:FIR LSAS LSAS FIR border:
+ARTCC boundary:LESMO Area LOWW TMA:
+ARTCC boundary:LOWG_APP:
+ARTCC boundary:LOWI_APP:
+ARTCC boundary:LOWK_APP:
+ARTCC boundary:LOWL_APP:
+ARTCC boundary:LOWS_APP:
+ARTCC boundary:LOWW_APP:
+ARTCC boundary:LOXT_APP:
+ARTCC boundary:LOXZ_APP:
+ARTCC low boundary:LOWG_CTR:
+ARTCC low boundary:LOWI_CTR:
+ARTCC low boundary:LOWK_CTR:
+ARTCC low boundary:LOWL LOWW Release line:
+ARTCC low boundary:LOWL_CTR:
+ARTCC low boundary:LOWS_CTR:
+ARTCC low boundary:LOWW_CTR:
+ARTCC low boundary:LOXT_CTR:
+ARTCC low boundary:LOXZ_CTR:
+ARTCC low boundary:RADLY LOWW Release line:
+Free Text:LOXZ VFR Fixes\FOJACH:freetext
+Free Text:LOXZ VFR Fixes\GABERL:freetext
+Free Text:LOXZ VFR Fixes\GROSSLOBMING:freetext
+Free Text:LOXZ VFR Fixes\KATZLING:freetext
+Free Text:LOXZ VFR Fixes\KRAUBATH:freetext
+Free Text:LOXZ VFR Fixes\MOEDERBRUGG:freetext
+Free Text:LOXZ VFR Fixes\NEUMARKT:freetext
+Free Text:LOXZ VFR Fixes\OBDACHERSATTEL:freetext
+Free Text:LOXZ VFR Fixes\POELS:freetext
+Free Text:LOXZ VFR Fixes\RED_BULL_RING:freetext
+Free Text:LOXZ VFR Fixes\SCHLEIFLING:freetext
+Free Text:LOXZ VFR Fixes\ST_LORENZEN:freetext
+Free Text:LOXZ VFR Fixes\ST_MICHAEL:freetext
+Free Text:LOXZ VFR Fixes\THALHEIM:freetext
+Free Text:LOXZ VFR Fixes\UNZMARKT:freetext
+Free Text:LOXZ VFR Fixes\WEISSKIRCHEN:freetext
+Runways:LOXZ 02-20:centerline
+Runways:LOXZ 02-20:name
+Runways:LOXZ 08L-26R:centerline
+Runways:LOXZ 08L-26R:name
+Runways:LOXZ 08R-26L:centerline
+Runways:LOXZ 08R-26L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LOVV_Topsky
+WINDOWAREA:46.383477:12.454459:48.050145:16.982280

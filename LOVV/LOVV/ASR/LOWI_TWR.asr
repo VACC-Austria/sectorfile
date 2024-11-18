@@ -1,0 +1,94 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:EDDM:symbol
+Airports:LHBP:symbol
+Airports:LJLJ:symbol
+Airports:LOAN:symbol
+Airports:LOAV:symbol
+Airports:LOII:symbol
+Airports:LOIN:symbol
+Airports:LOIS:symbol
+Airports:LOIU:symbol
+Airports:LOIZ:symbol
+Airports:LOWG:symbol
+Airports:LOWI:symbol
+Airports:LOWK:symbol
+Airports:LOWL:symbol
+Airports:LOWS:symbol
+Airports:LOWW:symbol
+Airports:LOWZ:symbol
+Airports:LOXT:symbol
+Airports:LZIB:name
+Airports:LZIB:symbol
+ARTCC boundary:EDDM_APP:
+ARTCC boundary:FIR EDGG EDGG FIR border:
+ARTCC boundary:FIR EDMM EDMM FIR border:
+ARTCC boundary:FIR LHCC LHCC FIR border:
+ARTCC boundary:FIR LIMM LIXX FIR border:
+ARTCC boundary:FIR LJLA LJLA FIR border:
+ARTCC boundary:FIR LKAA LKAA FIR border:
+ARTCC boundary:FIR LSAS LSAS FIR border:
+ARTCC boundary:LESMO Area LOWW TMA:
+ARTCC boundary:LOWG_APP:
+ARTCC boundary:LOWI_APP:
+ARTCC boundary:LOWK_APP:
+ARTCC boundary:LOWL_APP:
+ARTCC boundary:LOWS_APP:
+ARTCC boundary:LOWW_APP:
+ARTCC boundary:LOXT_APP:
+ARTCC boundary:LOXZ_APP:
+ARTCC low boundary:LOWG_CTR:
+ARTCC low boundary:LOWI_CTR:
+ARTCC low boundary:LOWK_CTR:
+ARTCC low boundary:LOWL LOWW Release line:
+ARTCC low boundary:LOWL_CTR:
+ARTCC low boundary:LOWS_CTR:
+ARTCC low boundary:LOWW_CTR:
+ARTCC low boundary:LOXT_CTR:
+ARTCC low boundary:LOXZ_CTR:
+ARTCC low boundary:RADLY LOWW Release line:
+Free Text:LOWI VFR Fixes\BRENNER:freetext
+Free Text:LOWI VFR Fixes\F:freetext
+Free Text:LOWI VFR Fixes\G:freetext
+Free Text:LOWI VFR Fixes\H:freetext
+Free Text:LOWI VFR Fixes\I:freetext
+Free Text:LOWI VFR Fixes\K:freetext
+Free Text:LOWI VFR Fixes\M1:freetext
+Free Text:LOWI VFR Fixes\M2:freetext
+Free Text:LOWI VFR Fixes\M3:freetext
+Free Text:LOWI VFR Fixes\N1:freetext
+Free Text:LOWI VFR Fixes\N2:freetext
+Free Text:LOWI VFR Fixes\S:freetext
+Free Text:LOWI VFR Fixes\W1:freetext
+Free Text:LOWI VFR Fixes\W2:freetext
+NDBs:INN:symbol
+NDBs:RTT:symbol
+NDBs:RUM:symbol
+NDBs:ZW:symbol
+Runways:LOWI 08-26:centerline
+Runways:LOWI 08-26:name
+Stars:LOWI Route LOWI OEJ (West):
+Stars:LOWI Route LOWI OEV (East):
+VORs:FMD:symbol
+VORs:GRZ:symbol
+VORs:JAN:symbol
+VORs:LNZ:symbol
+VORs:SBG:symbol
+VORs:SNU:symbol
+VORs:STO:symbol
+VORs:WGM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LOVV_Topsky
+WINDOWAREA:47.023717:10.673913:47.569850:12.139168

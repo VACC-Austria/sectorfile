@@ -1,0 +1,14 @@
+TAXIIN
+m_Visible:0
+m_X:1215
+m_Y:443
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:10:0:10021:0:0:1:TopSky plugin:::0:0.0
+m_Column:ATYP:4:1:10028:0:0:1:TopSky plugin:::1:0.0
+m_Column:POS:3:0:2:1:0:1:Ground Radar plugin:Ground Radar plugin::0:0.0
+m_Column:OPTEXT2:10:0:155:2:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:STS:4:1:59:13:13:1::Ground Radar plugin:Ground Radar plugin:1:0.0
+END

@@ -1,0 +1,100 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:LOWG Grounddesignators\1:freetext
+Free Text:LOWG Grounddesignators\2:freetext
+Free Text:LOWG Grounddesignators\20:freetext
+Free Text:LOWG Grounddesignators\21:freetext
+Free Text:LOWG Grounddesignators\22:freetext
+Free Text:LOWG Grounddesignators\23:freetext
+Free Text:LOWG Grounddesignators\24:freetext
+Free Text:LOWG Grounddesignators\24A:freetext
+Free Text:LOWG Grounddesignators\24B:freetext
+Free Text:LOWG Grounddesignators\25:freetext
+Free Text:LOWG Grounddesignators\26:freetext
+Free Text:LOWG Grounddesignators\27:freetext
+Free Text:LOWG Grounddesignators\28:freetext
+Free Text:LOWG Grounddesignators\29:freetext
+Free Text:LOWG Grounddesignators\3:freetext
+Free Text:LOWG Grounddesignators\30:freetext
+Free Text:LOWG Grounddesignators\31:freetext
+Free Text:LOWG Grounddesignators\32:freetext
+Free Text:LOWG Grounddesignators\33:freetext
+Free Text:LOWG Grounddesignators\34:freetext
+Free Text:LOWG Grounddesignators\35:freetext
+Free Text:LOWG Grounddesignators\36:freetext
+Free Text:LOWG Grounddesignators\37:freetext
+Free Text:LOWG Grounddesignators\38:freetext
+Free Text:LOWG Grounddesignators\A:freetext
+Free Text:LOWG Grounddesignators\A1:freetext
+Free Text:LOWG Grounddesignators\B:freetext
+Free Text:LOWG Grounddesignators\C:freetext
+Free Text:LOWG Grounddesignators\C1:freetext
+Free Text:LOWG Grounddesignators\D:freetext
+Free Text:LOWG Grounddesignators\D:freetext
+Free Text:LOWG Grounddesignators\D1:freetext
+Free Text:LOWG Grounddesignators\D3:freetext
+Free Text:LOWG Grounddesignators\F1:freetext
+Free Text:LOWG Grounddesignators\F10:freetext
+Free Text:LOWG Grounddesignators\F11:freetext
+Free Text:LOWG Grounddesignators\F12:freetext
+Free Text:LOWG Grounddesignators\F2:freetext
+Free Text:LOWG Grounddesignators\F3:freetext
+Free Text:LOWG Grounddesignators\F4:freetext
+Free Text:LOWG Grounddesignators\F5:freetext
+Free Text:LOWG Grounddesignators\F6:freetext
+Free Text:LOWG Grounddesignators\F7:freetext
+Free Text:LOWG Grounddesignators\F8:freetext
+Free Text:LOWG Grounddesignators\F9:freetext
+Free Text:LOWG Grounddesignators\G1:freetext
+Free Text:LOWG Grounddesignators\G1:freetext
+Free Text:LOWG Grounddesignators\G10:freetext
+Free Text:LOWG Grounddesignators\G11:freetext
+Free Text:LOWG Grounddesignators\G12:freetext
+Free Text:LOWG Grounddesignators\G13:freetext
+Free Text:LOWG Grounddesignators\G14:freetext
+Free Text:LOWG Grounddesignators\G15:freetext
+Free Text:LOWG Grounddesignators\G16:freetext
+Free Text:LOWG Grounddesignators\G17:freetext
+Free Text:LOWG Grounddesignators\G18:freetext
+Free Text:LOWG Grounddesignators\G19:freetext
+Free Text:LOWG Grounddesignators\G2:freetext
+Free Text:LOWG Grounddesignators\G2:freetext
+Free Text:LOWG Grounddesignators\G20:freetext
+Free Text:LOWG Grounddesignators\G3:freetext
+Free Text:LOWG Grounddesignators\G3:freetext
+Free Text:LOWG Grounddesignators\G4:freetext
+Free Text:LOWG Grounddesignators\G5:freetext
+Free Text:LOWG Grounddesignators\G6:freetext
+Free Text:LOWG Grounddesignators\G7:freetext
+Free Text:LOWG Grounddesignators\G8:freetext
+Free Text:LOWG Grounddesignators\G9:freetext
+Free Text:LOWG Grounddesignators\P20:freetext
+Free Text:LOWG Grounddesignators\S:freetext
+Free Text:LOWG Grounddesignators\S1:freetext
+Free Text:LOWG Grounddesignators\S2:freetext
+Free Text:LOWG Grounddesignators\S3:freetext
+Free Text:LOWG Grounddesignators\S4:freetext
+Free Text:LOWG Grounddesignators\X:freetext
+Free Text:LOWG Grounddesignators\Y:freetext
+Regions:Groundlayout LOWG:polygon
+Runways:LOWG 16C-34C:name
+Runways:LOWG 16L-34R:name
+Runways:LOWG 16R-34L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:100.00000
+TAGFAMILY:VACC Austria DEL/GND/TWR
+WINDOWAREA:46.982028:15.415389:47.001243:15.466943
+PLUGIN:Ground Radar plugin:AirportElevation:1120 
+PLUGIN:Ground Radar plugin:AirportRadius:1
+PLUGIN:Ground Radar plugin:GroundMode:LOWG

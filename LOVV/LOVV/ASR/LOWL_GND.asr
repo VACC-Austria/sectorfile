@@ -1,0 +1,70 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:LOWL Grounddesignators\11:freetext
+Free Text:LOWL Grounddesignators\11A:freetext
+Free Text:LOWL Grounddesignators\12:freetext
+Free Text:LOWL Grounddesignators\13:freetext
+Free Text:LOWL Grounddesignators\13A:freetext
+Free Text:LOWL Grounddesignators\13B:freetext
+Free Text:LOWL Grounddesignators\13C:freetext
+Free Text:LOWL Grounddesignators\21:freetext
+Free Text:LOWL Grounddesignators\21A:freetext
+Free Text:LOWL Grounddesignators\22:freetext
+Free Text:LOWL Grounddesignators\23:freetext
+Free Text:LOWL Grounddesignators\31:freetext
+Free Text:LOWL Grounddesignators\32:freetext
+Free Text:LOWL Grounddesignators\33:freetext
+Free Text:LOWL Grounddesignators\41:freetext
+Free Text:LOWL Grounddesignators\41A:freetext
+Free Text:LOWL Grounddesignators\42:freetext
+Free Text:LOWL Grounddesignators\43:freetext
+Free Text:LOWL Grounddesignators\A:freetext
+Free Text:LOWL Grounddesignators\B:freetext
+Free Text:LOWL Grounddesignators\C:freetext
+Free Text:LOWL Grounddesignators\C:freetext
+Free Text:LOWL Grounddesignators\D:freetext
+Free Text:LOWL Grounddesignators\D:freetext
+Free Text:LOWL Grounddesignators\F:freetext
+Free Text:LOWL Grounddesignators\G:freetext
+Free Text:LOWL Grounddesignators\G:freetext
+Free Text:LOWL Grounddesignators\G11:freetext
+Free Text:LOWL Grounddesignators\G12:freetext
+Free Text:LOWL Grounddesignators\G13:freetext
+Free Text:LOWL Grounddesignators\G14:freetext
+Free Text:LOWL Grounddesignators\G15:freetext
+Free Text:LOWL Grounddesignators\G16:freetext
+Free Text:LOWL Grounddesignators\G17:freetext
+Free Text:LOWL Grounddesignators\G21:freetext
+Free Text:LOWL Grounddesignators\G22:freetext
+Free Text:LOWL Grounddesignators\G23:freetext
+Free Text:LOWL Grounddesignators\G24:freetext
+Free Text:LOWL Grounddesignators\G25:freetext
+Free Text:LOWL Grounddesignators\G26:freetext
+Free Text:LOWL Grounddesignators\G27:freetext
+Free Text:LOWL Grounddesignators\H1:freetext
+Free Text:LOWL Grounddesignators\H2:freetext
+Free Text:LOWL Grounddesignators\H3:freetext
+Free Text:LOWL Grounddesignators\H4:freetext
+Free Text:LOWL Grounddesignators\H5:freetext
+Free Text:LOWL Grounddesignators\V:freetext
+Free Text:LOWL Grounddesignators\Z:freetext
+Regions:Groundlayout LOWL:polygon
+Runways:LOWL 08-26:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:2.00000
+TAGFAMILY:VACC Austria DEL/GND/TWR
+WINDOWAREA:48.224100:14.161130:48.243315:14.212684
+PLUGIN:Ground Radar plugin:AirportElevation:980
+PLUGIN:Ground Radar plugin:AirportRadius:1
+PLUGIN:Ground Radar plugin:GroundMode:LOWL

@@ -1,0 +1,85 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:EDDM:symbol
+Airports:LHBP:symbol
+Airports:LJLJ:symbol
+Airports:LOAM:symbol
+Airports:LOAN:symbol
+Airports:LOAV:symbol
+Airports:LOBA:symbol
+Airports:LOBB:symbol
+Airports:LOBD:symbol
+Airports:LOBF:symbol
+Airports:LOBH:symbol
+Airports:LOBL:symbol
+Airports:LOBR:symbol
+Airports:LOBU:symbol
+Airports:LOBW:symbol
+Airports:LOWG:symbol
+Airports:LOWI:symbol
+Airports:LOWK:symbol
+Airports:LOWL:symbol
+Airports:LOWS:symbol
+Airports:LOWW:symbol
+Airports:LOWZ:symbol
+Airports:LOXT:symbol
+Airports:LZIB:name
+Airports:LZIB:symbol
+ARTCC boundary:EDDM_APP:
+ARTCC boundary:FIR EDGG EDGG FIR border:
+ARTCC boundary:FIR EDMM EDMM FIR border:
+ARTCC boundary:FIR LHCC LHCC FIR border:
+ARTCC boundary:FIR LIMM LIXX FIR border:
+ARTCC boundary:FIR LJLA LJLA FIR border:
+ARTCC boundary:FIR LKAA LKAA FIR border:
+ARTCC boundary:FIR LSAS LSAS FIR border:
+ARTCC boundary:LESMO Area LOWW TMA:
+ARTCC boundary:LOWG_APP:
+ARTCC boundary:LOWI_APP:
+ARTCC boundary:LOWK_APP:
+ARTCC boundary:LOWL_APP:
+ARTCC boundary:LOWS_APP:
+ARTCC boundary:LOWW_APP:
+ARTCC boundary:LOXT_APP:
+ARTCC boundary:LOXZ_APP:
+ARTCC low boundary:LOWG_CTR:
+ARTCC low boundary:LOWI_CTR:
+ARTCC low boundary:LOWK_CTR:
+ARTCC low boundary:LOWL LOWW Release line:
+ARTCC low boundary:LOWL_CTR:
+ARTCC low boundary:LOWS_CTR:
+ARTCC low boundary:LOWW_CTR:
+ARTCC low boundary:LOXT_CTR:
+ARTCC low boundary:LOXZ_CTR:
+ARTCC low boundary:RADLY LOWW Release line:
+Free Text:LOWW VFR Fixes\DONAUTURM:freetext
+Free Text:LOWW VFR Fixes\EBERGASSING:freetext
+Free Text:LOWW VFR Fixes\FREUDENAU:freetext
+Free Text:LOWW VFR Fixes\HIMBERG:freetext
+Free Text:LOWW VFR Fixes\KLOSTERNEUBURG:freetext
+Free Text:LOWW VFR Fixes\MUENCHENDORF:freetext
+Free Text:LOWW VFR Fixes\ORTH:freetext
+Free Text:LOWW VFR Fixes\PETRONELL:freetext
+Free Text:LOWW VFR Fixes\RUTZENDORF:freetext
+Free Text:LOWW VFR Fixes\SCHOENAU:freetext
+Free Text:LOWW VFR Fixes\STRASSHOF:freetext
+Free Text:LOWW VFR Fixes\UNTERWALTERSDORF:freetext
+Runways:LOWW 11-29:centerline
+Runways:LOWW 11-29:name
+Runways:LOWW 16-34:centerline
+Runways:LOWW 16-34:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LOVV_Topsky
+WINDOWAREA:47.811909:15.835692:48.358043:17.300949
