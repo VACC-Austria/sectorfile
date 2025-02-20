@@ -94,6 +94,7 @@ Airport_Runway_Buffer_LVP=16C:140
 System_CMAC_HighSpeed_Info=25
 System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
+Airport_LVP=1
 
 [LOWI]
 Window_APW_MaxDist=20 
@@ -110,6 +111,7 @@ System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 Airport_LVP=0
 System_RIM=0
+Airport_LVP=0
 
 [LOWK]
 Airport_Elevation=1470
@@ -123,6 +125,7 @@ Airport_Runway_Buffer_LVP=10L:120
 System_CMAC_HighSpeed_Info=25
 System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
+Airport_LVP=1
 
 [LOWL]
 Airport_Elevation=970
@@ -138,6 +141,7 @@ Airport_Runway_Buffer_LVP=08:150
 System_CMAC_HighSpeed_Info=25
 System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
+Airport_LVP=1
 
 [LOWS]
 Airport_Elevation=1400
@@ -151,6 +155,7 @@ Airport_Runway_Buffer_LVP=15:120
 System_CMAC_HighSpeed_Info=25
 System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=2.0
+Airport_LVP=1
 
 
 
@@ -172,3 +177,4 @@ System_CMAC_NoContact_Distance_Info=3.0
 Window_2nd=1,80,540,200,400
 Window_2nd_Scale=300
 Window_2nd_Rotation=195
+Airport_LVP=1

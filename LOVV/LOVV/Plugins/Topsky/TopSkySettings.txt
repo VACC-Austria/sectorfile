@@ -395,6 +395,7 @@ Window_QNHTL=1,1,50
 System_FPASD=1
 Setup_LoadMap=LOWW\lor15
 Setup_LoadMap=LOWS\relmun
+Setup_LoadMap=LOVV\relkirdi
 Airspace_C_Flag=LOWW
 STCA_Floor=2500
 Label_WTC_Highlight_WTC=J

@@ -9,7 +9,7 @@
             "dep": "ADAMA1A"
           },
           "16": {
-            "dep": "ADAMA1B"
+            "dep": "ADAMA2B"
           },
           "29": {
             "dep": "ADAMA2C",
@@ -24,7 +24,7 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "ARSIN1A"
+            "dep": "ARSIN2A"
           },
           "16": {
             "dep": "ARSIN1B"
@@ -42,10 +42,10 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "BUWUT1A"
+            "dep": "BUWUT2A"
           },
           "16": {
-            "dep": "BUWUT1B"
+            "dep": "BUWUT2B"
           },
           "29": {
             "dep": "BUWUT1C",
@@ -63,7 +63,7 @@
             "dep": "KOXER1A"
           },
           "16": {
-            "dep": "KOXER1B"
+            "dep": "KOXER2B"
           },
           "29": {
             "dep": "KOXER1C",
@@ -78,10 +78,10 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "LANUX3A"
+            "dep": "LANUX4A"
           },
           "16": {
-            "dep": "LANUX5B"
+            "dep": "LANUX6B"
           },
           "29": {
             "dep": "LANUX2C",
@@ -96,10 +96,10 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "LEDVA3A"
+            "dep": "LEDVA4A"
           },
           "16": {
-            "dep": "LEDVA2B"
+            "dep": "LEDVA3B"
           },
           "29": {
             "dep": "LEDVA3C",
@@ -114,7 +114,7 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "LUGEM1A",
+            "dep": "LUGEM2A",
             "nap": "OSMO1A"
           },
           "16": {
@@ -134,7 +134,7 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "MEDIX1A"
+            "dep": "MEDIX2A"
           },
           "16": {
             "dep": "MEDIX2B"
@@ -153,7 +153,7 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "OSPEN2A",
+            "dep": "OSPEN3A",
             "nap": "IMVO3A"
           },
           "16": {
@@ -173,7 +173,7 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "RUPET1A",
+            "dep": "RUPET2A",
             "nap": "IRGO1A"
           },
           "16": {
@@ -189,28 +189,11 @@
           }
         }
       },
-      "SNU": {
-        "cfl": 5000,
-        "rwys": {
-          "11": {
-            "dep": "SNU2A"
-          },
-          "16": {
-            "dep": "SNU4B"
-          },
-          "29": {
-            "dep": "SNU2C"
-          },
-          "34": {
-            "dep": "SNU2D"
-          }
-        }
-      },
       "SOVIL": {
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "SOVIL1A",
+            "dep": "SOVIL2A",
             "nap": "ODSU1A"
           },
           "16": {
@@ -230,7 +213,7 @@
         "cfl": 5000,
         "rwys": {
           "11": {
-            "dep": "STEIN2A"
+            "dep": "STEIN3A"
           },
           "16": {
             "dep": "STEIN4B"
