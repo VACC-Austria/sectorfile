@@ -34,7 +34,8 @@
             "nap": "EWUK1C"
           },
           "34": {
-            "dep": "ARSIN1D"
+            "dep": "ARSIN1D",
+            "nap": "EWUK1D"
           }
         }
       },
@@ -224,7 +225,7 @@
           },
           "34": {
             "dep": "STEIN3D",
-            "nap": "EMKO2D"
+            "nap": "EMKO3D"
           }
         }
       }
