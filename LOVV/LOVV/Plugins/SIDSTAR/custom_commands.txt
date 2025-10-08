@@ -1,0 +1,16 @@
+.vor:FMD
+.ndb:GRZ
+.airport:LOAV
+.runway:LOWS 15-33
+.fix:BALAD
+.star:HOLDING LOWW BALAD R 35.0 8000
+.sid:LOAN SID ALL GESGI1A
+.lairway:J21;J23
+.hairway:L127
+.artcchbound:ACC-B Sector
+.artccbound:LOWW_APP
+.artcclbound:LOWW_CTR
+.geo:Minimum Radar Vectoring Altitudes LOVV
+.ftext:LOAN VFR Fixes\B
+.region:Groundlayout LOAN
+.airportadfw:LOAN

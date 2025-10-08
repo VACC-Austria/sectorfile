@@ -1,4 +1,4 @@
-SCTFILEPATH:.\..\..\..\LOVV-LOVV-Sectorfile_*
+SCTFILEPATH:.\..\..\..\LOVV-Installer_*
 
 COLORDEF:C_Map_Border:134:134:135
 COLORDEF:C_Map_3:100:100:100

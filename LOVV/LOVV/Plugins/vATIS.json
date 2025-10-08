@@ -1,8 +1,8 @@
 {
-  "name": "LOVV 10.06.2025 #1",
+  "name": "LOVV 04.10.2025 #2",
   "id": "e2612975-dc45-4b9a-ba59-94525bba097b",
-  "updateUrl": "https://raw.githubusercontent.com/constvoidptr/vatis/refs/heads/master/vATIS%20Profile%20-%20LOVV.json",
-  "updateSerial": 2025061001,
+  "updateUrl": "https://raw.githubusercontent.com/VACC-Austria/vATIS/refs/heads/main/vATIS%20Profile%20-%20LOVV.json",
+  "updateSerial": 2025100402,
   "stations": [
     {
       "id": "cfa29bf8-e74e-42e1-bf66-fe429f5a9a56",
@@ -80,7 +80,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -1881,7 +1881,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -2001,7 +2001,7 @@
         {
           "id": "234eb36b-79be-44ba-859c-788974c575fc",
           "ordinal": 6,
-          "name": "Config E2 - DEP: 16 ARR: 11,16",
+          "name": "Config E2 - DEP: 16 ARR: 11/16",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 16 . SIM LANDINGS RWY 11 AND RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -2023,7 +2023,7 @@
         {
           "id": "56e30522-bcba-4c79-bd99-133b878b55b7",
           "ordinal": 8,
-          "name": "Config F1 - DEP: 29,16 ARR: 16",
+          "name": "Config F1 - DEP: 29/16 ARR: 16 (Standard EuroScope)",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED, STEIN OR ARSIN DEP RWY 16 . ARR RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -2034,12 +2034,18 @@
         {
           "id": "050e13c5-1d9c-4039-acfe-e7a32096bd25",
           "ordinal": 9,
-          "name": "Config F2 - DEP: 29,16 ARR: 16",
+          "name": "Config F2 - DEP: 29/16 ARR: 16",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 16 . ARR RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 16 . ARR RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -2062,7 +2068,7 @@
         {
           "id": "b1795411-8dd0-4491-8e49-d99e138ff3df",
           "ordinal": 10,
-          "name": "Config G1 - DEP: 29,34 ARR: 34",
+          "name": "Config G1 - DEP: 29/34 ARR: 34 (Standard EuroScope)",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA, LED OR BUWUT DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -2073,34 +2079,52 @@
         {
           "id": "18e7cbfb-934d-4552-87ef-8fad67818cd4",
           "ordinal": 11,
-          "name": "Config G2 - DEP: 29,34 ARR: 34",
+          "name": "Config G2 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA, LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA OR LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
           "id": "2b9e2aec-fc80-4cd0-97d9-cd1ec10a37c1",
           "ordinal": 12,
-          "name": "Config G3 - DEP: 29,34 ARR: 34",
+          "name": "Config G3 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
           "id": "371df317-cb54-47f9-9fc7-161e8a4383c0",
           "ordinal": 13,
-          "name": "Config G4 - DEP: 29,34 ARR: 34",
+          "name": "Config G4 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX OR ADA DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -2264,23 +2288,28 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "*CB IN APCH",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -2378,7 +2407,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -4179,7 +4208,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -4305,7 +4334,7 @@
         {
           "id": "5ac88aa4-0dca-4348-80f5-479a32a13efa",
           "ordinal": 6,
-          "name": "Config E2 - DEP: 16 ARR: 11,16",
+          "name": "Config E2 - DEP: 16 ARR: 11/16",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 11 ILS AND RWY 16 ILS . SIM LANDINGS INPR. ACFT ON FINAL SHALL USE LDG LIGHTS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4327,7 +4356,7 @@
         {
           "id": "6a49ba37-467c-41cf-80be-d1850c903728",
           "ordinal": 8,
-          "name": "Config F1 - DEP: 29,16 ARR: 16",
+          "name": "Config F1 - DEP: 29/16 ARR: 16 (Standard EuroScope)",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4338,7 +4367,7 @@
         {
           "id": "c360af18-34ed-4510-bfea-4fbe14a1a4ce",
           "ordinal": 9,
-          "name": "Config F2 - DEP: 29,16 ARR: 16",
+          "name": "Config F2 - DEP: 29/16 ARR: 16",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4360,7 +4389,7 @@
         {
           "id": "b87425ec-823b-4db5-b810-6da470c2c3ab",
           "ordinal": 11,
-          "name": "Config G1 - DEP: 29,34 ARR: 34",
+          "name": "Config G1 - DEP: 29/34 ARR: 34 (Standard EuroScope)",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4371,7 +4400,7 @@
         {
           "id": "2d5fc282-1c2e-420b-97b5-1b6a2fcecfcb",
           "ordinal": 12,
-          "name": "Config G2 - DEP: 29,34 ARR: 34",
+          "name": "Config G2 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4382,7 +4411,7 @@
         {
           "id": "ac7404ab-23c6-42c6-a56a-fc4fc660726f",
           "ordinal": 13,
-          "name": "Config G3 - DEP: 29,34 ARR: 34",
+          "name": "Config G3 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4393,7 +4422,7 @@
         {
           "id": "5895de1f-3bc4-4038-b0ba-b391796c1c06",
           "ordinal": 14,
-          "name": "Config G4 - DEP: 29,34 ARR: 34",
+          "name": "Config G4 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -4601,12 +4630,12 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "*CB IN APCH",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
@@ -4616,8 +4645,13 @@
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 4,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "ordinal": 3,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -4720,7 +4754,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -6521,7 +6555,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -6760,22 +6794,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -6874,7 +6908,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -8675,7 +8709,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -8906,22 +8940,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "ordinal": 0,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -9030,7 +9064,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -10831,7 +10865,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -11033,22 +11067,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "ordinal": 0,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -11060,12 +11094,12 @@
           "enabled": false
         },
         {
-          "text": "TEMPORARY RESERVED AREAS GERLITZEN ACTIVE UP TO *9500 FT AND FELDKIRCHEN UP TO *6500 FT",
-          "ordinal": 2,
+          "text": "TEMPORARY RESERVED AREA KLAGENFURT ACTIVE UP TO *3500 FT",
+          "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "TEMPORARY RESERVED AREA KLAGENFURT ACTIVE UP TO *3500 FT",
+          "text": "TEMPORARY RESERVED AREAS GERLITZEN ACTIVE UP TO *9500 FT AND FELDKIRCHEN UP TO *6500 FT",
           "ordinal": 3,
           "enabled": false
         },
@@ -11152,7 +11186,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -12953,7 +12987,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -13145,22 +13179,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "ordinal": 0,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 4,
           "enabled": false
         }
@@ -13264,7 +13298,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -15065,7 +15099,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -15271,22 +15305,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -15298,12 +15332,12 @@
           "enabled": false
         },
         {
-          "text": "GLIDERAREA SCHWARZENBERG ACTIVE",
-          "ordinal": 2,
+          "text": "GLIDERAREA GAISBERG ACTIVE",
+          "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "GLIDERAREA GAISBERG ACTIVE",
+          "text": "GLIDERAREA SCHWARZENBERG ACTIVE",
           "ordinal": 3,
           "enabled": false
         }
@@ -15385,7 +15419,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -17186,7 +17220,7 @@
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
-          "temporaryVoice": "Temporary",
+          "temporaryVoice": "Tempo",
           "template": {}
         },
         "windShear": {
@@ -17312,7 +17346,7 @@
         },
         {
           "id": "fb677032-ab98-4f5f-bde6-7f9bbb18241c",
-          "name": "Config E2 - DEP: 16 ARR: 11,16",
+          "name": "Config E2 - DEP: 16 ARR: 11/16",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 16 . ARR RWY 11 ILS AND RWY 16 ILS . SIM LANDINGS INPR. ACFT ON FINAL SHALL USE LDG LIGHTS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -17332,7 +17366,7 @@
         },
         {
           "id": "46a98a5c-6964-4cb4-8848-09d93429b7da",
-          "name": "Config F1 - DEP: 29,16 ARR: 16",
+          "name": "Config F1 - DEP: 29/16 ARR: 16 (Standard EuroScope)",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED, STEIN OR ARSIN DEP RWY 16 . ARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -17342,12 +17376,18 @@
         },
         {
           "id": "b305b3bf-806b-444a-88d3-837d8910c736",
-          "name": "Config F2 - DEP: 29,16 ARR: 16",
+          "name": "Config F2 - DEP: 29/16 ARR: 16",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 16 . ARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 16 . ARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17362,7 +17402,7 @@
         },
         {
           "id": "0c76481b-00c4-4ec7-a91a-567bef878e19",
-          "name": "Config G1 - DEP: 29,34 ARR: 34",
+          "name": "Config G1 - DEP: 29/34 ARR: 34 (Standard EuroScope)",
           "airportConditions": "",
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA, LED OR BUWUT DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
@@ -17372,32 +17412,50 @@
         },
         {
           "id": "f2448f11-df7b-4519-b8a6-f2bf8cd75dc3",
-          "name": "Config G2 - DEP: 29,34 ARR: 34",
+          "name": "Config G2 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA, LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA OR LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
           "id": "0b205f32-6891-46b1-9831-4910e31920c8",
-          "name": "Config G3 - DEP: 29,34 ARR: 34",
+          "name": "Config G3 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
           "id": "299a14be-22e2-49ac-a783-f61d990ff4e8",
-          "name": "Config G4 - DEP: 29,34 ARR: 34",
+          "name": "Config G4 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX OR ADA DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17582,12 +17640,12 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "*CB IN APCH",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
@@ -17597,8 +17655,13 @@
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "ordinal": 5,
           "enabled": false
         }
       ],
