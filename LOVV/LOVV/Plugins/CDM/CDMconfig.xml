@@ -1,18 +1,26 @@
 <?xml version="1.0"?>
 <CDM>
-    <Ctot code="" />
-	<rate ops="60" />
-	<rateLvo ops="60" />
-	<expiredCtot time="20" />
+	<rate ops="40" />
+	<rateLvo ops="10" />
+	<expiredCtot time="25" />
 	<realMode mode="false" />
-	<Rates url="https://vacc-austria.lima-city.at/CDM_plugin/rate.txt" />
-	<Taxizones url="https://vacc-austria.lima-city.at/CDM_plugin/taxizones.txt" />
-	<Ctot url="https://vacc-austria.lima-city.at/CDM_plugin/ctot.txt" />
-	<DefaultTaxiTime minutes="15" />
-	<RefreshTime seconds="20" />
+	<pilotTobt mode="true" />
+	<autoAtot mode="true" />
+	<invalidateAtTsat mode="false" />
+	<Rates url="https://design.vacc-austria.org/events/CDM/rate.txt" />
+	<Taxizones url="https://design.vacc-austria.org/events/CDM/taxizones.txt" />
+	<Ctot url="https://design.vacc-austria.org/events/CDM/ctot.txt" />
+	<sidInterval url="" />
+	<DefaultTaxiTime minutes="12" />
+	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
+	<RefreshTime seconds="10" />
 	<Debug mode="false" />
-	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
-	<ftpHost host="fsx-stuff.lima-ftp.de" />
-	<ftpUser user="ftp_rg4biszt" />
-	<ftpPassword password="AtPUMs4YuagfDt1VuyE6ePeLm8LNA34hD5vsB1WaDXnW9ZwYCYwAjHWR5qe8tmDvmeP5DoLsgP16KaroTXzjEJdxV4nGXGMoUWsM" />
+	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin"/>
+	<vdgsFileType type="3"/>
+	<ftpHost host="" />
+	<ftpUser user="" />
+	<ftpPassword password="" />
+	<sftpConnection mode="true" />
+	<Server mode="true" />
+	<Su_Wait mode="false" />
 </CDM>
