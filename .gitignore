@@ -1,0 +1,11 @@
+# Exclude navdata only allowed to be hosted on GNG
+LOVV/*.ese
+LOVV/*.rwy
+LOVV/*.sct
+LOVV/Alias/
+LOVV/ICAO/
+LOVV/NavData/
+LOVV/Settings/VoiceChannels.txt
+
+# Exclude copyright notice; automatically generated during the release process
+aeronav_copyright.txt
