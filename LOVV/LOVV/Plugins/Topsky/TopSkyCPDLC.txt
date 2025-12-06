@@ -1,4 +1,5 @@
-DCL:LOWW,LOWG,LOWK,LOWL,LOWS,LOWI:SID:CLRD TO <ades> VIA <sid> RUNWAY <drwy> CLIMB TO <cfl> SQUAWK <assr> <qnh> <rmk> REPORT READY ON <freq_own>
+DCL:LOWW:SID:CLRD TO <ades> OFF <drwy> <cfl> VIA <sid> SQUAWK <assr> MONITOR <freq_own> AND REPORT RDY IN TOBT WINDOW <atis> <qnh> ON MISMATCH CTCT <freq_own> <rmk>
+DCL:LOWG,LOWK,LOWL,LOWS,LOWI:SID:CLRD TO <ades> OFF <drwy> <cfl> VIA <sid> SQUAWK <assr> MONITOR <freq_own> <atis> <qnh> ON MISMATCH CTCT <freq_own> <rmk>
 
 
 FREETEXT:UNICOM:MONITOR UNICOM 122.8

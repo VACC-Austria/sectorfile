@@ -68,10 +68,9 @@ Plugins	Plugin0	\LOVV\Plugins\Topsky\TopSky.dll
 Plugins	Plugin1	\LOVV\Plugins\Groundradar\GRplugin.dll
 Plugins	Plugin2	\LOVV\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\LOVV\Plugins\DelHel\DelHel.dll
-Plugins	Plugin4	\LOVV\Plugins\SlotHel\SlotHel.dll
-Plugins	Plugin5	\LOVV\Plugins\IASsure\IASsure.dll
-Plugins	Plugin6	\LOVV\Plugins\vACDM\vACDM.dll
-Plugins	Plugin7	\LOVV\Plugins\Virtual Controller Helper\VCH.dll
+Plugins	Plugin4	\LOVV\Plugins\IASsure\IASsure.dll
+Plugins	Plugin5	\LOVV\Plugins\CDM\CDM.dll
+Plugins	Plugin6	\LOVV\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	SMS View
 Plugins	Plugin0Display2	Ground Radar display
@@ -82,7 +81,7 @@ Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3Display0	DelHel
 Plugins	Plugin3Display1	Ground Radar display
 Plugins	Plugin3Display2	Standard ES radar screen
-Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin4Display0	Standard ES radar screen
 LastSession	atis_callsign0	LOWW_ATIS
 LastSession	atis_freq0	122955
 LastSession	atis_url0	http://uniatis.net/atis.php?apptype=ILS&lvp=false&hiro=false&cdm=false&atistype=&remark=&DO_NOT_TOUCH_BEHIND_HERE&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA&metar=$metar($atisairportA)

@@ -7,6 +7,7 @@
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="false" />
+	<invalidateAtTobt mode="false"/>
 	<Rates url="https://design.vacc-austria.org/events/CDM/rate.txt" />
 	<Taxizones url="https://design.vacc-austria.org/events/CDM/taxizones.txt" />
 	<Ctot url="https://design.vacc-austria.org/events/CDM/ctot.txt" />

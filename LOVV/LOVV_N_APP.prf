@@ -66,7 +66,7 @@ Plugins	Plugin2	\LOVV\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\LOVV\Plugins\DelHel\DelHel.dll
 Plugins	Plugin4	\LOVV\Plugins\SlotHel\SlotHel.dll
 Plugins	Plugin5	\LOVV\Plugins\IASsure\IASsure.dll
-Plugins	Plugin6	\LOVV\Plugins\vACDM\vACDM.dll
+Plugins	Plugin6	\LOVV\Plugins\CDM\CDM.dll
 Plugins	Plugin7	\LOVV\Plugins\Virtual Controller Helper\VCH.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	SMS View
