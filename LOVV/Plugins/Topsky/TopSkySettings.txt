@@ -170,8 +170,9 @@ Airspace_No_DUPE_Codes=7000,2000,2200,1200
 Airspace_SIGMET_Areas=LOVV
 Airspace_ASSR_AutoAssign_Type=2
 Airspace_ASSR_AutoAssign_AcceptCurrent=1
-HTTP_NOTAM_Server=https://www.notams.faa.gov/
-HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
+HTTP_NOTAM_Server=https://notams.blip-radar.org/
+HTTP_NOTAM_Page_Prefix=api/legacy/query?loc=
+HTTP_NOTAM_Page_Suffix=
 Airspace_NOTAM_Remove=LHBP,LJLJ,LZIB
 Airspace_NOTAM_Add=LOVV
 
