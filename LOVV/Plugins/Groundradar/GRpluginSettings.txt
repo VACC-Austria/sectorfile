@@ -36,6 +36,7 @@ GroundLabel_Filter_Parked=1
 GroundLabel_Filter_NoState=1
 TowerLabel_FontSize=11
 TowerLabel_Font=EuroScope
+Window_TSW_Number=2
 
 System_State_DeIce=STBY
 
