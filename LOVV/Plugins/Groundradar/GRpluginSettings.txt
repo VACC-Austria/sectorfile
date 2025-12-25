@@ -39,6 +39,8 @@ TowerLabel_Font=EuroScope
 Window_TSW_Number=2
 
 System_State_DeIce=STBY
+System_State_CAPS_Lists=1
+System_State_CAPS_Menus=1
 System_Alert_InbdEst=
 System_Alert_Irregular=
 System_Alert_MissedApp=
