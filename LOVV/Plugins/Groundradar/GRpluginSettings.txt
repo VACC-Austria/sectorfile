@@ -39,6 +39,10 @@ TowerLabel_Font=EuroScope
 Window_TSW_Number=2
 
 System_State_DeIce=STBY
+System_Alert_InbdEst=
+System_Alert_Irregular=
+System_Alert_MissedApp=
+System_Alert_Weather=
 
 Label_STAND=1,1,0
 Label_ATYP=1,1,1
