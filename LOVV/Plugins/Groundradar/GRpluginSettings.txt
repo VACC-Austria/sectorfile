@@ -163,9 +163,6 @@ System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=2.0
 Airport_LVP=1
 
-
-
-
 [LOWW]
 Airport_Elevation=600
 Airport_Radius=3.0
@@ -180,7 +177,7 @@ Airport_Runway_Buffer_LVP=16:120
 System_CMAC_HighSpeed_Info=25
 System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
-Window_2nd=1,80,540,200,400
-Window_2nd_Scale=300
-Window_2nd_Rotation=195
+Window_TSW=1,1,80,540,200,400
+Window_TSW_Rotation=1,195
+Window_TSW_Scale=1,300
 Airport_LVP=1
