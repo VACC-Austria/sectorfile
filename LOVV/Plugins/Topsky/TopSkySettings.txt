@@ -385,8 +385,6 @@ Window_DCL_SetCFL=1
 Window_CARD_View_DownstreamPred=1
 Window_CARD_View_Risk=0
 
-
-
 [_CTR]
 //Setup_Informed=*:TULSI,ELMEM,BRENO,MADEB,XEBIX:LOWI
 Setup_Informed=*:*:LOWI
@@ -406,8 +404,23 @@ List_TfcMgmt1_Via=MASUR,BARUG,NIGSI
 List_TfcMgmt2_ADES=EDDM
 List_TfcMgmt2_Via=REDBU,AMADI
 
+[_APP]
+MTCD=0
+Label_GS_Default=1111
+Window_CPDLC_Current=1
+Label_WTC_Highlight_ATYP=B752,B753
+Label_WTC_Highlight_WTC=LHJ
+FlightLeg_AutoShow=0
 
+[_TWR]
+MTCD=0
+System_TransferConfirmation=0
 
+[_GND]
+MTCD=0
+
+[_DEL]
+MTCD=0
 
 
 [LOWW_]
@@ -428,7 +441,6 @@ List_TfcMgmt1_ADES=LOWW
 List_TfcMgmt1_Via=NERDU,MABOD
 List_TfcMgmt2_ADES=LOWW
 List_TfcMgmt2_Via=BALAD,PESAT
-
 
 
 [LOWI_]
@@ -461,23 +473,6 @@ STCA_Floor=2900
 Setup_Informed=*:ABIRI,LEOBE:LOWG
 Setup_Informed=*:TISMA,ABIRI:LOWK
 Setup_LoadMap=LOXZ\tma
-
-[_TWR]
-MTCD=0
-
-[_APP]
-MTCD=0
-Label_GS_Default=1111
-Window_CPDLC_Current=1
-Label_WTC_Highlight_ATYP=B752,B753
-Label_WTC_Highlight_WTC=LHJ
-FlightLeg_AutoShow=0
-
-[_GND]
-MTCD=0
-
-[_DEL]
-MTCD=0
 
 [LOVV_I_CTR]
 System_FIC_Position=1
