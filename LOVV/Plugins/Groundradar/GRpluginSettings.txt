@@ -87,7 +87,6 @@ List_Departure_EOBT=0
 List_Departure_STAND=0
 
 
-
 [LOWG]
 Window_APW_MaxDist=20
 Airport_Elevation=1100
@@ -98,8 +97,6 @@ Airport_Runway_Area=16C:22
 Airport_Runway_Buffer=16C:140
 Airport_Runway_Area_LVP=16C:22
 Airport_Runway_Buffer_LVP=16C:140
-System_CMAC_HighSpeed_Info=25
-System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 Airport_LVP=1
 
@@ -113,8 +110,6 @@ Airport_Runway_Area=08:22
 Airport_Runway_Buffer=08:90
 Airport_Runway_Area_LVP=08:22
 Airport_Runway_Buffer_LVP=08:90
-System_CMAC_HighSpeed_Info=25
-System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 Airport_LVP=0
 System_RIM=0
@@ -129,8 +124,6 @@ Airport_Runway_Area=10L:22
 Airport_Runway_Buffer=10L:120
 Airport_Runway_Area_LVP=10L:22
 Airport_Runway_Buffer_LVP=10L:120
-System_CMAC_HighSpeed_Info=25
-System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 Airport_LVP=1
 
@@ -145,8 +138,6 @@ Airport_Runway_Area=08:29
 Airport_Runway_Buffer=08:150
 Airport_Runway_Area_LVP=08:29
 Airport_Runway_Buffer_LVP=08:150
-System_CMAC_HighSpeed_Info=25
-System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 Airport_LVP=1
 
@@ -159,8 +150,6 @@ Airport_Runway_Area=15:22
 Airport_Runway_Buffer=15:120
 Airport_Runway_Area_LVP=15:22
 Airport_Runway_Buffer_LVP=15:120
-System_CMAC_HighSpeed_Info=25
-System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=2.0
 Airport_LVP=1
 
@@ -175,8 +164,6 @@ Airport_Runway_Area_LVP=11:22
 Airport_Runway_Area_LVP=16:22
 Airport_Runway_Buffer_LVP=11:120
 Airport_Runway_Buffer_LVP=16:120
-System_CMAC_HighSpeed_Info=25
-System_CMAC_HighSpeed=40
 System_CMAC_NoContact_Distance_Info=3.0
 Window_TSW=1,1,80,540,200,400
 Window_TSW_Rotation=1,195
