@@ -39,9 +39,16 @@ TowerLabel_FontSize=11
 TowerLabel_Font=EuroScope
 Window_TSW_Number=2
 
+System_State_OnFreq=ON FREQ
 System_State_DeIce=STBY
-System_State_CAPS_Lists=1
-System_State_CAPS_Menus=1
+System_State_StartUp=START UP
+System_State_Push=PUSH
+System_State_Taxi_Out=TAXI
+System_State_LineUp=LINE UP
+System_State_Depa=TAKE OFF
+System_State_Taxi_In=TAXI
+System_State_Parked=PARKED
+
 System_Alert_InbdEst=
 System_Alert_Irregular=
 System_Alert_MissedApp=
