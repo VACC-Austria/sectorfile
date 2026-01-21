@@ -1,27 +1,28 @@
 <?xml version="1.0"?>
 <CDM>
-	<rate ops="40" />
+	<rate ops="40"/>
 	<rateLvo ops="10" />
-	<expiredCtot time="25" />
-	<realMode mode="false" />
-	<pilotTobt mode="true" />
-	<autoAtot mode="true" />
-	<invalidateAtTsat mode="false" />
+	<expiredCtot time="25"/>
+	<realMode mode="false"/>
+	<pilotTobt mode="true"/>
+	<autoAtot mode="true"/>
+	<invalidateAtTsat mode="false"/>
 	<invalidateAtTobt mode="false"/>
-	<Rates url="https://design.vacc-austria.org/events/CDM/rate.txt" />
-	<Taxizones url="https://design.vacc-austria.org/events/CDM/taxizones.txt" />
-	<Ctot url="https://design.vacc-austria.org/events/CDM/ctot.txt" />
-	<sidInterval url="" />
-	<DefaultTaxiTime minutes="12" />
+	<Rates url="https://design.vacc-austria.org/events/CDM/rate.txt"/>
+	<Taxizones url="https://design.vacc-austria.org/events/CDM/taxizones.txt"/>
+	<Ctot url="https://design.vacc-austria.org/events/CDM/ctot.txt"/>
+	<sidInterval url=""/>
+	<DefaultTaxiTime minutes="12"/>
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
-	<RefreshTime seconds="10" />
-	<Debug mode="false" />
+	<DeIceRemTaxi rem1Name= "REM1" rem1="10" rem2Name= "REM2" rem2="10" rem3Name= "REM3" rem3="10" rem4Name= "REM4" rem4="10" rem5Name= "REM5" rem5="10"/>
+	<RefreshTime seconds="10"/>
+	<Debug mode="false"/>
 	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin"/>
 	<vdgsFileType type="3"/>
-	<ftpHost host="" />
-	<ftpUser user="" />
-	<ftpPassword password="" />
-	<sftpConnection mode="true" />
-	<Server mode="true" />
-	<Su_Wait mode="false" />
+	<ftpHost host=""/>
+	<ftpUser user=""/>
+	<ftpPassword password=""/>
+	<sftpConnection mode="true"/>
+	<Server mode="true"/>
+	<Su_Wait mode="false"/>
 </CDM>
