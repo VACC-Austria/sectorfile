@@ -253,12 +253,12 @@ MTCD_Sep_Lat=6
 MTCD_Sharing_Time=5
 MTCD_Inhibit_VFR=1
 
-FlightLeg_FontSize=10
+FlightLeg_FontSize=11
+FlightLeg_FontStyle=700,0,0,0
 FlightLeg_AutoShow=1
-FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
-//testen ob leiwand
-FlightLeg_Label_SCFL=1
+FlightLeg_Label_DIST=0
+FlightLeg_Label_SCFL=0
 
 STCA=1
 STCA_VFR=0
