@@ -160,7 +160,6 @@ Malrt_Inbound_EST=EST
 Malrt_Irregular=IRR
 Malrt_Weather=WX
 
-
 Airspace_AOR_Airports=LO
 Airspace_AOR_Positions=LO
 Airspace_AOR_Positions_Exclude=LON_
@@ -176,7 +175,6 @@ HTTP_NOTAM_Page_Suffix=
 Airspace_NOTAM_Remove=LHBP,LJLJ,LZIB
 Airspace_NOTAM_Add=LOVV
 
-
 System_TrueColorMode=1
 System_UseReportedGS=0
 System_ASP_IasMach=30000
@@ -189,7 +187,6 @@ System_FindTrack_Time=10
 System_OPTEXT2_Edit_By_NextController=1
 System_UpdateNotificationDelay=90
 
-
 Track_HistoryDots=0
 Track_PredictionLine=1
 
@@ -197,7 +194,6 @@ RwyAppLines_Length=20
 RwyAppLines_Markers=10
 RwyAppLines_MarkerSpacing=2.5
 RwyAppLines_Auto=0
-
 
 Label_SI_ShowFreq=1
 Label_SI_FreqTime=3
@@ -212,13 +208,11 @@ Areas_Altitude_Filtering=1
 
 //FPCP_Inhibit_VFR=1
 
-
 AIW=1
 AIW_Type=1
 AIW_Floor=3500
 AIW_Inhibit_ActiveAreas=1
 AIW_FlightRules=2
-
 
 Vector_AHDG_FontSize=10
 Vector_AHDG_Label_Dist=2
@@ -241,7 +235,6 @@ SAP_Buffer_Vert_U=400
 SAP_Buffer_Vert_L_IFR=400
 SAP_Buffer_Vert_L_VFR=0
 
-
 APW=1
 APW_Filter=1
 APW_VFR=1
@@ -254,13 +247,11 @@ APW_Buffer_Vert_U=0
 APW_Buffer_Vert_L_IFR=0
 APW_Buffer_Vert_L_VFR=0
 
-
 MTCD_DeAcknowledge=5
 MTCD_Filter_Dep=3
 MTCD_Sep_Lat=6
 MTCD_Sharing_Time=5
 MTCD_Inhibit_VFR=1
-
 
 FlightLeg_FontSize=10
 FlightLeg_AutoShow=1
@@ -268,8 +259,6 @@ FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
 //testen ob leiwand
 FlightLeg_Label_SCFL=1
-
-
 
 STCA=1
 STCA_VFR=0
@@ -304,7 +293,6 @@ HTTP_GRIB_Latitude_Max=51
 HTTP_GRIB_Latitude_Min=42
 HTTP_GRIB_Longitude_Max=20
 HTTP_GRIB_Longitude_Min=7
-
 
 Shortcut_RadarMenu_Combo=0x00
 Shortcut_Map_Xfr_Combo=1,0x12
@@ -355,7 +343,6 @@ Label_FCOPX_Default=0000
 Label_TOG_Default=0000
 Label_AHDG_ShowDct=2
 
-
 WXR_Latitude=47,5
 WXR_Latitude_Max=51
 WXR_Latitude_Min=42
@@ -392,8 +379,6 @@ Window_CARD=1,1555,880
 Window_SAP=1,1320,200
 Window_QNHTL=1,1,50
 System_FPASD=1
-Setup_LoadMap=LOWW\lor15
-Setup_LoadMap=LOWS\relmun
 Setup_LoadMap=LOVV\relkirdi
 Airspace_C_Flag=LOWW
 STCA_Floor=2500
@@ -422,7 +407,6 @@ MTCD=0
 [_DEL]
 MTCD=0
 
-
 [LOWW_]
 Setup_LoadMap=LOWW\lor15
 Setup_LoadMap=LOWW\relbud
@@ -441,7 +425,6 @@ List_TfcMgmt1_ADES=LOWW
 List_TfcMgmt1_Via=NERDU,MABOD
 List_TfcMgmt2_ADES=LOWW
 List_TfcMgmt2_Via=BALAD,PESAT
-
 
 [LOWI_]
 Setup_LoadMap=LOWI\rellowi
@@ -466,7 +449,6 @@ STCA_Floor=1600
 
 [LOWS_]
 STCA_Floor=2000
-Setup_LoadMap=LOWS\relmun
 
 [LOXZ_]
 STCA_Floor=2900
