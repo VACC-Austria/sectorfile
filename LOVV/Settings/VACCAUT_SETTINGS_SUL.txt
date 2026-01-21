@@ -9,7 +9,7 @@ m_HeaderOnly:0
 m_Column:REQ:4:0:546:548:0:1:VCH:VCH::0:0.0
 m_Column:T:2:1:544:0:0:1:VCH:::0:0.0
 m_Column:C/S:10:0:10021:1001:13:1:TopSky plugin:TopSky plugin:Ground Radar plugin:0:0.0
-m_Column:BY:5:1:145:0:0:1:CDM Plugin:::0:0.0
+m_Column:BY:3:0:145:0:0:1:CDM Plugin:::0:0.0
 m_Column:EOBT:5:1:1:100:120:0:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:TOBT:5:1:4:115:121:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:TSAT:5:1:2:13:0:1:CDM Plugin:Ground Radar plugin::0:0.0
