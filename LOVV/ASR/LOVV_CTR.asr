@@ -18,21 +18,6 @@ Airports:LOWZ:symbol
 Airports:LOXT:symbol
 Airports:LZIB:name
 Airports:LZIB:symbol
-ARTCC boundary:EDDM_APP:
-ARTCC boundary:FIR EDGG EDGG FIR border:
-ARTCC boundary:FIR EDMM EDMM FIR border:
-ARTCC boundary:FIR LHCC LHCC FIR border:
-ARTCC boundary:FIR LIMM LIXX FIR border:
-ARTCC boundary:FIR LJLA LJLA FIR border:
-ARTCC boundary:FIR LKAA LKAA FIR border:
-ARTCC boundary:FIR LSAS LSAS FIR border:
-ARTCC boundary:LESMO Area LOWW TMA:
-ARTCC boundary:LOWS_APP:
-ARTCC high boundary:ACC-B Sector:
-ARTCC high boundary:ACC-E Sector:
-ARTCC high boundary:ACC-N Sector:
-ARTCC high boundary:ACC-S Sector:
-ARTCC high boundary:ACC-W Sector:
 ARTCC low boundary:LOWL LOWW Release line:
 ARTCC low boundary:RADLY LOWW Release line:
 Fixes:ABETI:symbol
@@ -307,3 +292,4 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:LOVV_Topsky
 WINDOWAREA:45.404836:9.127433:49.682311:20.553536
+PLUGIN:TopSky plugin:ShowMapData:CTR

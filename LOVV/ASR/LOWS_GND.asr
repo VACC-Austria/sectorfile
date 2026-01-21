@@ -71,3 +71,4 @@ WINDOWAREA:47.785967:12.981180:47.801339:13.022424
 PLUGIN:Ground Radar plugin:AirportElevation:1411
 PLUGIN:Ground Radar plugin:AirportRadius:1
 PLUGIN:Ground Radar plugin:GroundMode:LOWS
+PLUGIN:TopSky plugin:HideMapData:CTR
