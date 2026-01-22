@@ -1,6 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Airports:EDDM:symbol
 Airports:LHBP:symbol
 Airports:LJLJ:symbol
@@ -35,7 +37,6 @@ ARTCC low boundary:LOWK_CTR:
 ARTCC low boundary:LOWL LOWW Release line:
 ARTCC low boundary:LOWL_CTR:
 ARTCC low boundary:LOWS_CTR:
-ARTCC low boundary:LOWW_CTR:
 ARTCC low boundary:LOXZ_CTR:
 ARTCC low boundary:RADLY LOWW Release line:
 Fixes:ABTAN:symbol
