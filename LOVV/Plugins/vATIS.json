@@ -1,8 +1,8 @@
 {
-  "name": "LOVV 13.11.2025 #1",
+  "name": "LOVV 24.01.2026 #1",
   "id": "e2612975-dc45-4b9a-ba59-94525bba097b",
   "updateUrl": "https://raw.githubusercontent.com/VACC-Austria/vATIS/refs/heads/main/vATIS%20Profile%20-%20LOVV.json",
-  "updateSerial": 2025111301,
+  "updateSerial": 2026012401,
   "stations": [
     {
       "id": "cfa29bf8-e74e-42e1-bf66-fe429f5a9a56",
@@ -2296,7 +2296,7 @@
         {
           "variableName": "CDM",
           "text": "REPORT TOBT AT VATS.IM/VDGS PRIOR TO CLRC REQ",
-          "voice": ".REPORT TARGET OFF BLOCK TIME AT VATS DOT IM SLASH VDGS PRIOR TO CLEARANCE REQUEST."
+          "voice": "REPORT TARGET OFF BLOCK TIME AT VATS. DOT. IHM. SLASH. VDGS. PRIOR TO CLEARANCE REQUEST."
         }
       ],
       "airportConditionDefinitions": [
@@ -2312,17 +2312,22 @@
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 2,
+          "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 5,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 6,
           "enabled": false
         }
       ],
@@ -4540,13 +4545,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 3,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
+          "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 5,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 6,
           "enabled": false
         }
       ],
@@ -6691,13 +6701,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 2,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
+          "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -8825,12 +8840,17 @@
           "variableName": "AD_TREND",
           "text": "AD TREND",
           "voice": "AERODROME"
+        },
+        {
+          "variableName": "RTT",
+          "text": "RTT",
+          "voice": "RATTENBERG."
         }
       ],
       "airportConditionDefinitions": [
         {
           "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 0,
+          "ordinal": 1,
           "enabled": false
         },
         {
@@ -8839,13 +8859,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -8856,23 +8881,28 @@
           "enabled": false
         },
         {
-          "text": "EXP APCH VIA ELMEM",
+          "text": "EXP APCH VIA RTT",
           "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "@TRAS *L AND *C ACTIVE",
+          "text": "EXP APCH VIA ELMEM",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "@TRAS *L AND NORDPARK ACTIVE",
+          "text": "@TRAS *L AND *C ACTIVE",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
+          "text": "@TRAS *L AND NORDPARK ACTIVE",
           "ordinal": 5,
+          "enabled": false
+        },
+        {
+          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
+          "ordinal": 6,
           "enabled": false
         }
       ]
@@ -10959,7 +10989,7 @@
       "airportConditionDefinitions": [
         {
           "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 0,
+          "ordinal": 1,
           "enabled": false
         },
         {
@@ -10968,13 +10998,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -13073,7 +13108,7 @@
       "airportConditionDefinitions": [
         {
           "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 0,
+          "ordinal": 1,
           "enabled": false
         },
         {
@@ -13082,13 +13117,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -15210,13 +15250,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 2,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
+          "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 4,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -17552,13 +17597,18 @@
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY.",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET.",
           "ordinal": 5,
+          "enabled": false
+        },
+        {
+          "text": "CHEMICALLY TREATED",
+          "ordinal": 6,
           "enabled": false
         }
       ],
