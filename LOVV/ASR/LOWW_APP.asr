@@ -30,14 +30,12 @@ ARTCC boundary:LOWK_APP:
 ARTCC boundary:LOWL_APP:
 ARTCC boundary:LOWS_APP:
 ARTCC boundary:LOWW_APP:
-ARTCC boundary:LOXZ_APP:
 ARTCC low boundary:LOWG_CTR:
 ARTCC low boundary:LOWI_CTR:
 ARTCC low boundary:LOWK_CTR:
 ARTCC low boundary:LOWL LOWW Release line:
 ARTCC low boundary:LOWL_CTR:
 ARTCC low boundary:LOWS_CTR:
-ARTCC low boundary:LOXZ_CTR:
 ARTCC low boundary:RADLY LOWW Release line:
 Fixes:ABTAN:symbol
 Fixes:ADAMA:symbol

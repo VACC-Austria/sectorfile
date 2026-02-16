@@ -37,8 +37,6 @@ ARTCC low boundary:LOWL LOWW Release line:
 ARTCC low boundary:LOWL_CTR:
 ARTCC low boundary:LOWS_CTR:
 ARTCC low boundary:LOWW_CTR:
-ARTCC low boundary:LOXT_CTR:
-ARTCC low boundary:LOXZ_CTR:
 ARTCC low boundary:RADLY LOWW Release line:
 Fixes:ABIRI:symbol
 Fixes:ABTAN:symbol
