@@ -321,6 +321,7 @@ Divergence_RAM_DCT_DelayTime=120
 Divergence_RAM_Inhibit_App_Clr=1
 
 Equip_UseCodes=0
+Equip_Assume_All_SSRs_Mode_S=1
 
 Label_N_Default=1
 
