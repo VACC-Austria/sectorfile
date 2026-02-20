@@ -25,6 +25,7 @@ Fixes:ABITU:symbol
 Fixes:ABLOM:symbol
 Fixes:ABRUK:symbol
 Fixes:ABTAN:symbol
+Fixes:ADGOH:symbol
 Fixes:ADILO:symbol
 Fixes:ADLET:symbol
 Fixes:ADOMO:symbol
@@ -53,8 +54,10 @@ Fixes:BIBAG:symbol
 Fixes:BIRGI:symbol
 Fixes:BODAN:symbol
 Fixes:BRENO:symbol
+Fixes:BUBSE:symbol
 Fixes:BUDEX:symbol
 Fixes:BUMUK:symbol
+Fixes:BUWOQ:symbol
 Fixes:DEGIN:symbol
 Fixes:DEGUM:symbol
 Fixes:DETSA:symbol
@@ -77,6 +80,7 @@ Fixes:ESEGA:symbol
 Fixes:ESETO:symbol
 Fixes:ETVIS:symbol
 Fixes:EVAXI:symbol
+Fixes:EXHEK:symbol
 Fixes:GAMLI:symbol
 Fixes:GASNA:symbol
 Fixes:GEDSO:symbol
@@ -157,6 +161,7 @@ Fixes:NORIN:symbol
 Fixes:NUBRA:symbol
 Fixes:NURMI:symbol
 Fixes:OBEDI:symbol
+Fixes:OBFEZ:symbol
 Fixes:OBUTI:symbol
 Fixes:ODOMO:symbol
 Fixes:OKORA:symbol
