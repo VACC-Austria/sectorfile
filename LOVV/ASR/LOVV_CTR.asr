@@ -107,7 +107,6 @@ Fixes:KANIN:symbol
 Fixes:KIRDI:symbol
 Fixes:KLAGY:symbol
 Fixes:KOGOL:symbol
-Fixes:KOMAR:symbol
 Fixes:KOVEL:symbol
 Fixes:KUMOM:symbol
 Fixes:KUSAM:symbol
@@ -241,10 +240,12 @@ Fixes:WW410:symbol
 Fixes:WW411:symbol
 Fixes:XEBIX:symbol
 NDBs:CRE:symbol
+NDBs:GBG:symbol
 NDBs:INN:symbol
 NDBs:MIQ:symbol
 NDBs:MR:symbol
-NDBs:RON:symbol
+NDBs:OKR:symbol
+NDBs:PIS:symbol
 NDBs:RTT:symbol
 NDBs:ZW:symbol
 VORs:BNO:symbol
@@ -268,7 +269,9 @@ VORs:NIT:symbol
 VORs:OKF:symbol
 VORs:OKG:symbol
 VORs:OKL:symbol
+VORs:OMA:symbol
 VORs:OTT:symbol
+VORs:RCH:symbol
 VORs:RDG:symbol
 VORs:SBG:symbol
 VORs:SLC:symbol
