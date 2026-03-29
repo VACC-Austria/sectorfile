@@ -363,6 +363,7 @@ Window_MsgIn=1,860,50
 Window_MsgOut=1,860,100
 Window_NOTAM=1,500,400
 Window_CPDLC_Current=1,200,85
+Window_UpperWinds=1,200,200
 Window_SM_LeaveHoldTime=3
 Window_SM_LowestLevel=30
 Window_PDC_SetASSR=1
