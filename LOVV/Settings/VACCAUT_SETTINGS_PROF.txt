@@ -75,6 +75,10 @@ PROFILE:LOVV_W_CTR:300:6
 ATIS2:$radioname CPDLC/DCL LOVW
 ATIS3:My active sector vats.im/lovv
 ATIS4:Charts vats.im/lovv-charts
+PROFILE:LOVV_WC_CTR:300:6
+ATIS2:$radioname CPDLC/DCL LOWC
+ATIS3:My active sector vats.im/lovv
+ATIS4:Charts vats.im/lovv-charts
 PROFILE:LOWG_APP:150:5
 ATIS2:$radioname CPDLC/DCL LOGA
 ATIS3:My active sector vats.im/lovv
