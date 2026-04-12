@@ -32,6 +32,7 @@ Window_APP_Extensions=10
 Track_HistoryDots_GND=0
 System_CMAC_HighSpeed=35
 System_CMAC_HighSpeed_Info=30
+System_RMCA_X_extension=0.0
 GroundLabel_FontSize=11
 GroundLabel_Font=EuroScope
 GroundLabel_Filter_Parked=1
