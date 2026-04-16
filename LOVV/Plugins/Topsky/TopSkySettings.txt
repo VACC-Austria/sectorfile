@@ -359,11 +359,14 @@ RDF_Accuracy=0
 RDF_MinRadius=20
 RDF_AntennaPos=0
 
-Window_MsgIn=1,860,50
-Window_MsgOut=1,860,100
-Window_NOTAM=1,500,400
-Window_CPDLC_Current=1,200,85
-Window_UpperWinds=1,200,200
+Window_MsgIn=0,860,50
+Window_MsgOut=0,1060,50
+Window_UpperWinds=1,10,275
+Window_NOTAM=1,10,650
+Window_CPDLC_Current=1,10,900
+Window_SAP=0,1530,575
+Window_CARD=0,1475,750
+Window_QNHTL=0,10,625
 Window_SM_LeaveHoldTime=3
 Window_SM_LowestLevel=30
 Window_PDC_SetASSR=1
@@ -376,9 +379,13 @@ Window_CARD_View_Risk=0
 [_CTR]
 //Setup_Informed=*:TULSI,ELMEM,BRENO,MADEB,XEBIX:LOWI
 Setup_Informed=*:*:LOWI
-Window_CARD=1,1555,880
-Window_SAP=1,1320,200
-Window_QNHTL=1,1,50
+Window_MsgIn=1
+Window_MsgOut=1
+Window_UpperWinds=0
+Window_NOTAM=0
+Window_CARD=1
+Window_SAP=1
+Window_QNHTL=1
 System_FPASD=1
 Setup_LoadMap=LOVV\relkirdi
 Airspace_C_Flag=LOWW
@@ -393,6 +400,10 @@ List_TfcMgmt2_Via=REDBU,AMADI
 [_APP]
 MTCD=0
 Label_GS_Default=1111
+Window_UpperWinds=0
+Window_NOTAM=0
+Window_MsgIn=1
+Window_MsgOut=1
 Window_CPDLC_Current=1
 Label_WTC_Highlight_ATYP=B752,B753
 Label_WTC_Highlight_WTC=LHJ
@@ -400,13 +411,19 @@ FlightLeg_AutoShow=0
 
 [_TWR]
 MTCD=0
+Window_UpperWinds=0
+Window_NOTAM=0
 System_TransferConfirmation=0
 
 [_GND]
 MTCD=0
+Window_UpperWinds=0
+Window_NOTAM=0
 
 [_DEL]
 MTCD=0
+Window_UpperWinds=0
+Window_NOTAM=0
 
 [LOWW_]
 Setup_LoadMap=LOWW\lor15
