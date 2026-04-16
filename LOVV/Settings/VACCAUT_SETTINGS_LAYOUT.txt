@@ -16,9 +16,9 @@ m_ShowCTRControllers:1
 m_ShowAPPControllers:1
 m_ShowTWRControllers:1
 m_ShowGNDControllers:1
-m_ShowATISControllers:1
-m_ShowOBSControllers:1
-m_ShowUnidentifiedControllers:1
+m_ShowATISControllers:0
+m_ShowOBSControllers:0
+m_ShowUnidentifiedControllers:0
 m_ShowFreqUsers:0
 m_ShowAtisUsers:0
 m_ShowArrivalPlanes:1
@@ -55,4 +55,4 @@ m_ShowCdtOnCflCheck:1
 m_ShowTsVccsMiniControl:1
 ScenarioEditorX:0
 ScenarioEditorY:0
-m_ShowSTARControllers:1
+m_ShowSTARControllers:0
