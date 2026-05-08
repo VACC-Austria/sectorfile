@@ -426,10 +426,10 @@ Window_UpperWinds=0
 Window_NOTAM=0
 
 [LOWW_]
-Setup_LoadMap=LOWW\lor15
-Setup_LoadMap=LOWW\relbud
 Setup_LoadMap=LOWW\rwy
+Setup_LoadMap=LOVV\ctr
 Setup_LoadMap=LOVV\tma
+Setup_LoadMap=LOVV\boundary
 Setup_Informed=LOWG:PISAM,LANUX,LOKVU,NAVTI,MIKOV,LEDVA,REKLU,TOVKA,MAREG,KOXER,ABLOM:*
 Setup_Informed=*:STO,SITNI,LIMRA:LOWL
 Setup_Informed=LOWL:PEROL:*
