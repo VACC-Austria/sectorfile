@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-PLUGIN:Ground Radar plugin:AirportElevation:576 
+PLUGIN:Ground Radar plugin:AirportElevation:576
 PLUGIN:Ground Radar plugin:AirportRadius:1
 PLUGIN:Ground Radar plugin:GroundMode:LOXT
 Free Text:LOXT Grounddesignator\10:freetext
@@ -68,4 +68,4 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:VACC Austria DEL/GND/TWR
 WINDOWAREA:48.312178:16.093188:48.328155:16.136591
-PLUGIN:TopSky plugin:HideMapData:CTR
+PLUGIN:TopSky plugin:HideMapData:CTR,APP

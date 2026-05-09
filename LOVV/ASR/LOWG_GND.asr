@@ -95,7 +95,7 @@ DISABLEZOOMING:0
 DisplayRotation:100.00000
 TAGFAMILY:VACC Austria DEL/GND/TWR
 WINDOWAREA:46.982028:15.415389:47.001243:15.466943
-PLUGIN:Ground Radar plugin:AirportElevation:1120 
+PLUGIN:Ground Radar plugin:AirportElevation:1120
 PLUGIN:Ground Radar plugin:AirportRadius:1
 PLUGIN:Ground Radar plugin:GroundMode:LOWG
-PLUGIN:TopSky plugin:HideMapData:CTR
+PLUGIN:TopSky plugin:HideMapData:CTR,APP
