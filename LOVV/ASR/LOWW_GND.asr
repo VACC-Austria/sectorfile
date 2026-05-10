@@ -4,8 +4,6 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Regions:Groundlayout LOWW:polygon
-Runways:LOWW 11-29:name
-Runways:LOWW 16-34:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
