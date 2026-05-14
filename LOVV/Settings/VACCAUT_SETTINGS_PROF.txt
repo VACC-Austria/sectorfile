@@ -209,16 +209,13 @@ ATIS3:My active sector vats.im/lovv
 ATIS4:Charts vats.im/lovv-charts
 PROFILE:LOWI_DEL:20:2
 ATIS2:$radioname DCL LOWI
-ATIS3:My active sector vats.im/lovv
-ATIS4:Charts vats.im/lovv-charts
+ATIS3:Charts vats.im/lovv-charts
 PROFILE:LOWS_DEL:20:2
 ATIS2:$radioname DCL LOWS
-ATIS3:My active sector vats.im/lovv
-ATIS4:Charts vats.im/lovv-charts
+ATIS3:Charts vats.im/lovv-charts
 PROFILE:LOWW_DEL:20:2
 ATIS2:$radioname DCL LOWW
-ATIS3:My active sector vats.im/lovv
-ATIS4:Charts vats.im/lovv-charts
+ATIS3:Charts vats.im/lovv-charts
 PROFILE:LOAA_TWR:50:4
 ATIS2:$radioname
 ATIS3:My active sector vats.im/lovv
