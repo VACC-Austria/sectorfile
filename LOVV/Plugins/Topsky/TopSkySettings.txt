@@ -1,8 +1,5 @@
 //BEGIN SCALING (change values to your liking)
 
-//Cursors (derzeit nicht funktionell)
-//System_GUI_Scale_Cursors=1
-
 //Global Menu
 System_GUI_Scale_GlobalMenu=1.2
 
@@ -22,11 +19,6 @@ System_GUI_Scale_Windows=1.2
 
 Setup_COOPANS=1
 Setup_ScreenLat=47.5
-
-//HTTP_NOTAM_Area_Sched_Debug=1
-
-//Disables the mouse wheel - enable only for development and debugging
-//System_UseMouseWheel=0
 
 Color_ACF_Via_CFL=82,190,115
 Color_Active_Map=198,174,58
@@ -206,8 +198,6 @@ Label_WTC_Highlight_ATYP=CONC
 Areas_NOTAM_Activation=1
 Areas_Altitude_Filtering=1
 
-//FPCP_Inhibit_VFR=1
-
 AIW=1
 AIW_Type=1
 AIW_Floor=3500
@@ -361,7 +351,7 @@ RDF_AntennaPos=0
 
 Window_MsgIn=0,860,50
 Window_MsgOut=0,1060,50
-Window_UpperWinds=1,10,275
+Window_UpperWinds=0,10,250
 Window_NOTAM=1,10,650
 Window_CPDLC_Current=1,10,900
 Window_SAP=0,1530,575
@@ -381,7 +371,7 @@ Window_CARD_View_Risk=0
 Setup_Informed=*:*:LOWI
 Window_MsgIn=1
 Window_MsgOut=1
-Window_UpperWinds=0
+Window_UpperWinds=1
 Window_NOTAM=0
 Window_CARD=1
 Window_SAP=1
@@ -399,7 +389,7 @@ List_TfcMgmt2_Via=REDBU,AMADI
 [_APP]
 MTCD=0
 Label_GS_Default=1111
-Window_UpperWinds=0
+Window_UpperWinds=1
 Window_NOTAM=0
 Window_MsgIn=1
 Window_MsgOut=1
@@ -410,7 +400,7 @@ FlightLeg_AutoShow=0
 
 [_TWR]
 MTCD=0
-Window_UpperWinds=0
+Window_UpperWinds=1
 Window_NOTAM=0
 System_TransferConfirmation=0
 
