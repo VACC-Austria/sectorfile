@@ -210,12 +210,15 @@ ATIS4:Charts vats.im/lovv-charts
 PROFILE:LOWI_DEL:20:2
 ATIS2:$radioname DCL LOWI
 ATIS3:Charts vats.im/lovv-charts
+ATIS4:
 PROFILE:LOWS_DEL:20:2
 ATIS2:$radioname DCL LOWS
 ATIS3:Charts vats.im/lovv-charts
+ATIS4:
 PROFILE:LOWW_DEL:20:2
 ATIS2:$radioname DCL LOWW
 ATIS3:Charts vats.im/lovv-charts
+ATIS4:
 PROFILE:LOAA_TWR:50:4
 ATIS2:$radioname
 ATIS3:My active sector vats.im/lovv
