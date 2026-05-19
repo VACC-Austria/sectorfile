@@ -296,7 +296,7 @@ Shortcut_Map_Target=3,LOVV\rivers
 
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=10
-CPDLC_MinLevel=95
+CPDLC_MinLevel=125
 CPDLC_VCI_UM_Type=0
 CPDLC_Transfer=1
 CPDLC_CFL=1
