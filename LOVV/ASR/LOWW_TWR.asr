@@ -53,3 +53,4 @@ TAGFAMILY:LOVV_Topsky
 WINDOWAREA:47.811909:15.835692:48.358043:17.300949
 PLUGIN:TopSky plugin:ShowMapData:APP
 PLUGIN:TopSky plugin:HideMapData:CTR
+PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\boundary:LOWW\rwy:LOWW\lor15
