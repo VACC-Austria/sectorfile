@@ -3,40 +3,12 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Airports:EDDM:symbol
-Airports:LHBP:symbol
-Airports:LJLJ:symbol
-Airports:LOAM:symbol
-Airports:LOAN:symbol
-Airports:LOAV:symbol
-Airports:LOBA:symbol
-Airports:LOBB:symbol
-Airports:LOBD:symbol
-Airports:LOBF:symbol
-Airports:LOBH:symbol
-Airports:LOBR:symbol
-Airports:LOBU:symbol
-Airports:LOBW:symbol
-Airports:LOWG:symbol
-Airports:LOWI:symbol
-Airports:LOWK:symbol
-Airports:LOWL:symbol
-Airports:LOWS:symbol
-Airports:LOWZ:symbol
-Airports:LOXT:symbol
-Airports:LZIB:symbol
-Free Text:LOWW VFR Fixes\DONAUTURM:freetext
-Free Text:LOWW VFR Fixes\EBERGASSING:freetext
-Free Text:LOWW VFR Fixes\FREUDENAU:freetext
-Free Text:LOWW VFR Fixes\HIMBERG:freetext
-Free Text:LOWW VFR Fixes\KLOSTERNEUBURG:freetext
-Free Text:LOWW VFR Fixes\MUENCHENDORF:freetext
-Free Text:LOWW VFR Fixes\ORTH:freetext
-Free Text:LOWW VFR Fixes\PETRONELL:freetext
-Free Text:LOWW VFR Fixes\RUTZENDORF:freetext
-Free Text:LOWW VFR Fixes\SCHOENAU:freetext
-Free Text:LOWW VFR Fixes\STRASSHOF:freetext
-Free Text:LOWW VFR Fixes\UNTERWALTERSDORF:freetext
+Fixes:BALAD:symbol
+Fixes:MABOD:symbol
+Fixes:NERDU:symbol
+Fixes:PESAT:symbol
+VORs:FMD:symbol
+VORs:WGM:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -51,6 +23,6 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:LOVV_Topsky
 WINDOWAREA:47.811909:15.835692:48.358043:17.300949
-PLUGIN:TopSky plugin:ShowMapData:APP
 PLUGIN:TopSky plugin:HideMapData:CTR
-PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\boundary:LOWW\rwy:LOWW\lor15
+PLUGIN:TopSky plugin:ShowMapData:APP
+PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\boundary:LOVV\ctr:LOWW\rwy:LOWW\lor15:LOWW\vfrsec:LOWW\vfrpts
