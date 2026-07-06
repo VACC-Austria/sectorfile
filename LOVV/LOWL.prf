@@ -44,8 +44,8 @@ LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 LastSession	atis_letter	78
 RecentFiles	Recent1	\LOVV\ASR\LOWL_APP.asr
-RecentFiles	Recent2	\LOVV\ASR\LOWL_GND.asr
-RecentFiles	Recent3	\LOVV\ASR\LOWL_TWR.asr
+RecentFiles	Recent2	\LOVV\ASR\LOWL_TWR.asr
+RecentFiles	Recent3	\LOVV\ASR\LOWL_GND.asr
 ASRFastKeys	1	\LOVV\ASR\LOWL_APP.asr
 ASRFastKeys	2	\LOVV\ASR\LOWL_TWR.asr
 ASRFastKeys	3	\LOVV\ASR\LOWL_GND.asr
