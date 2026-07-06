@@ -19,7 +19,7 @@ COLORDEF:C_Map_3:100:100:100
 COLORDEF:C_Active_Map_Type_1:87:87:164
 COLORDEF:C_Map_Land:140:140:0
 COLORDEF:C_Map_Symbol:110:130:140
-COLORDEF:BLACK:0:0:0
+COLORDEF:C_Black:0:0:0
 
 // ---------- Line styles ----------
 
@@ -17993,3 +17993,14 @@ COLOR:C_Map_Border
 STYLE:Solid:1
 SCTFILEDATA:GEO\Minimum Radar Vectoring Altitudes LOXT
 SCTFILEDATA:GEO\Minimum Radar Vectoring Altitudes LOXZ
+
+MAP:black
+FOLDER:SHADING
+LAYER:-99
+COLOR:C_Black
+
+COORD:90:-180
+COORD:90:180
+COORD:-90:180
+COORD:-90:-180
+COORDPOLY:100
