@@ -75,8 +75,8 @@ Free Text:LOWG Grounddesignators\S1:freetext
 Free Text:LOWG Grounddesignators\S2:freetext
 Free Text:LOWG Grounddesignators\S3:freetext
 Free Text:LOWG Grounddesignators\S4:freetext
-Free Text:LOWG Grounddesignators\X:freetext
 Free Text:LOWG Grounddesignators\Y:freetext
+Free Text:LOWG Grounddesignators\Z:freetext
 Regions:Groundlayout LOWG:polygon
 Runways:LOWG 16C-34C:name
 Runways:LOWG 16L-34R:name
