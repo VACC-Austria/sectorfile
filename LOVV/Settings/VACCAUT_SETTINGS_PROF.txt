@@ -111,6 +111,10 @@ PROFILE:LOWS_APP:150:5
 ATIS2:$radioname CPDLC/DCL LOSA
 ATIS3:My active sector vats.im/lovv
 ATIS4:Charts vats.im/lovv-charts
+PROFILE:LOWS_F_APP:150:5
+ATIS2:$radioname
+ATIS3:My active sector vats.im/lovv
+ATIS4:Charts vats.im/lovv-charts
 PROFILE:LOWW_APP:150:5
 ATIS2:$radioname CPDLC/DCL LOWA
 ATIS3:My active sector vats.im/lovv
