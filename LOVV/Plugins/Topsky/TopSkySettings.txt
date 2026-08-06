@@ -457,6 +457,7 @@ STCA_Floor=1700
 STCA_Floor=1600
 
 [LOWS_]
+Setup_Informed=*:*:LOWS
 STCA_Floor=2000
 
 [LOXZ_]
