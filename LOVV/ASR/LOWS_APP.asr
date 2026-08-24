@@ -69,4 +69,4 @@ TAGFAMILY:LOVV_Topsky
 WINDOWAREA:46.928001:10.720513:48.594669:15.385771
 PLUGIN:TopSky plugin:HideMapData:CTR,APP
 PLUGIN:TopSky plugin:ShowMapData:LAU
-PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\mun:LOVV\ctr:LOVV\tma:LOVV\boundary:LOWS\rellows
+PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\mun:LOVV\ctr:LOVV\tma:LOVV\boundary:LOWS\rellows:LOWI\rockyline
