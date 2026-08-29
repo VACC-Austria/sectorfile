@@ -55,19 +55,18 @@
             ]
           },
           {
-            "icao": "EDDM",
+            "icao": "LOWZ",
             "maxlvl": 305,
-            "minlvl": 60,
+            "minlvl": 110,
             "waypoints": [
               "SITNI",
               "BAGSI",
-              "MATIG",
-              "AMADI"
+              "MATIG"
             ]
           },
           {
-            "icao": "",
-            "maxlvl": 660,
+            "icao": "EDDM",
+            "maxlvl": 305,
             "minlvl": 60,
             "waypoints": [
               "SITNI",
@@ -101,11 +100,12 @@
           {
             "icao": "",
             "maxlvl": 660,
-            "minlvl": 100,
+            "minlvl": 145,
             "waypoints": [
               "SITNI",
               "BAGSI",
-              "NANIT"
+              "MATIG",
+              "DETSA"
             ]
           }
         ]
