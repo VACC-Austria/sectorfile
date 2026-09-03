@@ -1,6 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Airports:EDDM:name
 Airports:EDDM:symbol
 Airports:LHBP:name
@@ -13,8 +15,6 @@ Airports:LOAB:name
 Airports:LOAB:symbol
 Airports:LOAD:name
 Airports:LOAD:symbol
-Airports:LOAE:name
-Airports:LOAE:symbol
 Airports:LOAF:name
 Airports:LOAF:symbol
 Airports:LOAG:name
@@ -73,8 +73,6 @@ Airports:LOBI:name
 Airports:LOBI:symbol
 Airports:LOBK:name
 Airports:LOBK:symbol
-Airports:LOBL:name
-Airports:LOBL:symbol
 Airports:LOBM:name
 Airports:LOBM:symbol
 Airports:LOBN:name
@@ -261,8 +259,6 @@ Airports:LOKH:name
 Airports:LOKH:symbol
 Airports:LOKJ:name
 Airports:LOKJ:symbol
-Airports:LOKK:name
-Airports:LOKK:symbol
 Airports:LOKL:name
 Airports:LOKL:symbol
 Airports:LOKM:name
@@ -293,8 +289,6 @@ Airports:LOLB:name
 Airports:LOLB:symbol
 Airports:LOLC:name
 Airports:LOLC:symbol
-Airports:LOLD:name
-Airports:LOLD:symbol
 Airports:LOLE:name
 Airports:LOLE:symbol
 Airports:LOLF:name
@@ -395,8 +389,6 @@ Airports:LOWZ:name
 Airports:LOWZ:symbol
 Airports:LOXA:name
 Airports:LOXA:symbol
-Airports:LOXE:name
-Airports:LOXE:symbol
 Airports:LOXH:name
 Airports:LOXH:symbol
 Airports:LOXI:name
@@ -418,7 +410,6 @@ ARTCC boundary:FIR LHCC LHCC FIR border:
 ARTCC boundary:FIR LIMM LIXX FIR border:
 ARTCC boundary:FIR LJLA LJLA FIR border:
 ARTCC boundary:FIR LKAA LKAA FIR border:
-ARTCC boundary:FIR LSAS LSAS FIR border:
 ARTCC boundary:FIR LZBB LZBB FIR border:
 ARTCC boundary:LESMO Area LOWW TMA:
 ARTCC boundary:LOWG_APP:
@@ -433,7 +424,6 @@ ARTCC low boundary:LOWG_CTR:
 ARTCC low boundary:LOWI_CTR:
 ARTCC low boundary:LOWK_CTR:
 ARTCC low boundary:LOWL_CTR:
-ARTCC low boundary:LOWS_CTR:
 ARTCC low boundary:LOWW_CTR:
 ARTCC low boundary:LOXT_CTR:
 ARTCC low boundary:LOXZ_CTR:
@@ -474,7 +464,6 @@ Free Text:LOAN VFR Fixes\L:freetext
 Free Text:LOAN VFR Fixes\M:freetext
 Free Text:LOAN VFR Fixes\O:freetext
 Free Text:LOAN VFR Fixes\PULVERTURM:freetext
-Free Text:LOAR VFR Fixes\E:freetext
 Free Text:LOAR VFR Fixes\N:freetext
 Free Text:LOAR VFR Fixes\W:freetext
 Free Text:LOAU VFR Fixes\AUTOBAHN:freetext
@@ -678,7 +667,6 @@ Free Text:LOWG Grounddesignators\S1:freetext
 Free Text:LOWG Grounddesignators\S2:freetext
 Free Text:LOWG Grounddesignators\S3:freetext
 Free Text:LOWG Grounddesignators\S4:freetext
-Free Text:LOWG Grounddesignators\X:freetext
 Free Text:LOWG Grounddesignators\Y:freetext
 Free Text:LOWG VFR Fixes\Autobahn-Ost:freetext
 Free Text:LOWG VFR Fixes\Autobahn-West:freetext
@@ -714,6 +702,7 @@ Free Text:LOWI VFR Fixes\M2:freetext
 Free Text:LOWI VFR Fixes\M3:freetext
 Free Text:LOWI VFR Fixes\N1:freetext
 Free Text:LOWI VFR Fixes\N2:freetext
+Free Text:LOWI VFR Fixes\O:freetext
 Free Text:LOWI VFR Fixes\S:freetext
 Free Text:LOWI VFR Fixes\W1:freetext
 Free Text:LOWI VFR Fixes\W2:freetext
@@ -995,7 +984,6 @@ Free Text:LOWW Grounddesignator\D22:freetext
 Free Text:LOWW Grounddesignator\D23:freetext
 Free Text:LOWW Grounddesignator\D24:freetext
 Free Text:LOWW Grounddesignator\D26:freetext
-Free Text:LOWW Grounddesignator\D27:freetext
 Free Text:LOWW Grounddesignator\D28:freetext
 Free Text:LOWW Grounddesignator\D29:freetext
 Free Text:LOWW Grounddesignator\D3:freetext
@@ -1046,7 +1034,6 @@ Free Text:LOWW Grounddesignator\EX6:freetext
 Free Text:LOWW Grounddesignator\EX7:freetext
 Free Text:LOWW Grounddesignator\EX8:freetext
 Free Text:LOWW Grounddesignator\EX9:freetext
-Free Text:LOWW Grounddesignator\F01:freetext
 Free Text:LOWW Grounddesignator\F03:freetext
 Free Text:LOWW Grounddesignator\F04:freetext
 Free Text:LOWW Grounddesignator\F05:freetext
