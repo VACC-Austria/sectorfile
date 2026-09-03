@@ -3,6 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC low boundary:LOWW_CTR:
 Fixes:BALAD:symbol
 Fixes:MABOD:symbol
 Fixes:NERDU:symbol
