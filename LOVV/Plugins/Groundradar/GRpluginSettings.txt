@@ -31,6 +31,7 @@ Window_APP_Scale=6
 Window_APP_AltFilter=6000
 Window_APP_Extensions=10
 Track_HistoryDots_GND=0
+GroundLabel_FontStyle=700,0,0,0
 System_CMAC_HighSpeed=35
 System_CMAC_HighSpeed_Info=30
 System_RMCA_X_extension=0.0
