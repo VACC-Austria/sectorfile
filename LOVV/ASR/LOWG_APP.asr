@@ -17,6 +17,6 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:LOVV_Topsky
 WINDOWAREA:45.971586:9.029095:49.226796:18.140924
-PLUGIN:TopSky plugin:HideMapData:CTR,APP
+PLUGIN:TopSky plugin:HideMapData:CTR,APP,TWR
 PLUGIN:TopSky plugin:ShowMapData:LAU
 PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\mun:LOVV\ctr:LOVV\tma:LOVV\boundary:LOWS\rellows:LOWI\rockyline
