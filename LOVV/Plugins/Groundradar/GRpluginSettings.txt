@@ -14,8 +14,8 @@ AppPath=LOWS:ILS15:N047.48.11.318:E012.59.51.889:157:R:1411:3
 Maps_URL=https://raw.githubusercontent.com/VACC-Austria/sectorfile/refs/heads/main/LOVV/Plugins/Groundradar/GRpluginMaps.txt
 
 Equip_ProMode=0
-Color_Arrival=150,215,150
-Color_Departure=255,125,175
+Color_Arrival=127,248,147
+Color_Departure=248,144,248
 Color_Information=199,199,199
 RawVideo=0
 RawVideo_MaxHistory=0
