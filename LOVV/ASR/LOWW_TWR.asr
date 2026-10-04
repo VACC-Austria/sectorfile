@@ -3,13 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC low boundary:LOWW_CTR:
-Fixes:BALAD:symbol
-Fixes:MABOD:symbol
-Fixes:NERDU:symbol
-Fixes:PESAT:symbol
-VORs:FMD:symbol
-VORs:WGM:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -24,6 +17,6 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:LOVV_Topsky
 WINDOWAREA:47.811909:15.835692:48.358043:17.300949
-PLUGIN:TopSky plugin:HideMapData:CTR,LAU
-PLUGIN:TopSky plugin:ShowMapData:APP,TWR
-PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\boundary:LOVV\ctr:LOWW\rwy:LOWW\vfrsec:LOWW\vfrpts:SHADING\black
+PLUGIN:TopSky plugin:HideMapData:CTR,APP,LAU
+PLUGIN:TopSky plugin:ShowMapData:TWR
+PLUGIN:TopSky plugin:ShowMaps:LOVV\basic:LOVV\boundary:LOWW\rwy:LOWW\vfrsec:LOWW\vfrpts:SHADING\black
