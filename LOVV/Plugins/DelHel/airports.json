@@ -245,7 +245,7 @@
           },
 		  "26C": {
             "dep": "MOGTI1X"
-          }  
+          }
         }
       },
       "BRENO": {
@@ -725,13 +725,24 @@
     "elevation": 767,
     "sids": {
       "MOVOS": {
-        "cfl": 3000,
+        "cfl": 6000,
         "rwys": {
-          "09": {
-            "dep": "MOVOS1A"
+          "13R": {
+            "dep": "MUGU1A"
           },
-          "27": {
-            "dep": "MOVOS1A"
+          "31L": {
+            "dep": "MUGU1A"
+          }
+        }
+      },
+      "MUGGU": {
+        "cfl": 6000,
+        "rwys": {
+          "13R": {
+            "dep": "MUGU1A"
+          },
+          "31L": {
+            "dep": "MUGU1A"
           }
         }
       }
