@@ -1,0 +1,28 @@
+# AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+# G1-G4
+LOWW:A:34:*:D:29,34:*:*:45_35,24_15
+
+# F1-F2
+LOWW:A:16:*:D:29,16:*:*:45_35,24_15
+
+# E
+LOWW:A:11:*:D:16:*:*:45_35
+
+# E2
+LOWW:A:11,16:*:D:16:*:*:30_18
+
+# F
+LOWW:A:16:*:D:29:*:*:45_35
+
+# G
+LOWW:A:34:*:D:29:*:*:45_35
+
+# NE
+LOWW:A:16:*:D:11:*:*:24_15
+
+# SRO
+LOWW:A:11:*:D:11:*:*:24_15
+LOWW:A:16:*:D:16:*:*:24_15
+LOWW:A:29:*:D:29:*:*:24_15
+LOWW:A:34:*:D:34:*:*:24_15
