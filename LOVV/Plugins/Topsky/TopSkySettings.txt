@@ -83,8 +83,6 @@ Color_Info_Coord=1,255,255
 Color_Information=40,210,40
 Color_Information_FL=41,245,41
 Color_Informed=175,125,175
-Color_Informed_2=175,125,175
-Color_Informed_3=175,125,175
 Color_Map_1=80,95,80
 Color_Map_2=44,44,44
 Color_Map_3=100,108,111
@@ -375,7 +373,7 @@ Window_CARD_View_Risk=0
 
 [_CTR]
 //Setup_Informed=*:TULSI,ELMEM,BRENO,MADEB,XEBIX:LOWI
-Setup_Informed=*:*:LOWI
+Setup_Informed=*:*:LOWI:2
 Window_MsgIn=1
 Window_MsgOut=1
 Window_UpperWinds=1
@@ -422,10 +420,10 @@ Window_UpperWinds=0
 Window_NOTAM=0
 
 [LOWW_]
-Setup_Informed=LOWG:PISAM,LANUX,LOKVU,NAVTI,MIKOV,LEDVA,REKLU,TOVKA,MAREG,KOXER,ABLOM:*
-Setup_Informed=*:STO,SITNI,LIMRA:LOWL
-Setup_Informed=LOWL:PEROL:*
-Setup_Informed=*:*:LOWW
+Setup_Informed=LOWG:PISAM,LANUX,LOKVU,NAVTI,MIKOV,LEDVA,REKLU,TOVKA,MAREG,KOXER,ABLOM:*:2
+Setup_Informed=*:STO,SITNI,LIMRA:LOWL:2
+Setup_Informed=LOWL:PEROL:*:2
+Setup_Informed=*:*:LOWW:2
 STCA_Floor=1200
 RDF_Mode=2
 RDF_Floor=800
@@ -438,7 +436,7 @@ List_TfcMgmt2_ADES=LOWW
 List_TfcMgmt2_Via=BALAD,PESAT
 
 [LOWI_]
-Setup_Informed=*:*:LOWI
+Setup_Informed=*:*:LOWI:2
 STCA_Floor=2500
 Shortcut_Map_Xfr_Key=4,0x31
 Shortcut_Map_Xfr_Key=5,0x32
@@ -448,7 +446,7 @@ Shortcut_Xfr_Target=5,IEA,ASI
 Shortcut_Xfr_Target=6,IF
 
 [LOWK_]
-Setup_Informed=*:BERTA,LUMUS,VEKEN:LJLJ
+Setup_Informed=*:BERTA,LUMUS,VEKEN:LJLJ:2
 STCA_Floor=2000
 
 [LOWG_]
@@ -458,13 +456,13 @@ STCA_Floor=1700
 STCA_Floor=1600
 
 [LOWS_]
-Setup_Informed=*:*:LOWS
+Setup_Informed=*:*:LOWS:2
 STCA_Floor=2000
 
 [LOXZ_]
 STCA_Floor=2900
-Setup_Informed=*:ABIRI,LEOBE:LOWG
-Setup_Informed=*:TISMA,ABIRI:LOWK
+Setup_Informed=*:ABIRI,LEOBE:LOWG:2
+Setup_Informed=*:TISMA,ABIRI:LOWK:2
 Setup_LoadMap=LOXZ\tma
 
 [LOVV_I_CTR]
