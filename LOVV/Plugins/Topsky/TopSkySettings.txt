@@ -18,7 +18,6 @@ System_GUI_Scale_Windows=1.2
 //END SCALING
 
 Setup_COOPANS=1
-Setup_ScreenLat=47.5
 
 Color_ACF_Via_CFL=82,190,115
 Color_Active_Map=198,174,58
